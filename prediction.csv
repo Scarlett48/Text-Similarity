@@ -1,0 +1,1963 @@
+,city,postcode,Actual,predicted,successful
+0,Chennai,600096,Wrong Input,CHEDDAR,0
+1,Aberdeen City,AB10 6QD,Aberdeen,Aberdeen,1
+2,-,AB11 9LX,Aberdeen,Aberdeen,1
+3,Petercult,AB165QN,Peterculter,Peterculter,1
+4,Abedeen,AB24 2RN,Aberdeen,Aberdeen,1
+5,,AB24 5AE,Aberdeen,Aberdeen,1
+6,Aberdeenshire,AB24 5PS,Aberdeen,Aberdeen,1
+7,,AB33 8EW,Alford,ALFORD,1
+8,Aberdeenshire,AB42 1TN,Peterhead,Peterhead,1
+9,Aberdeen,AB43 9AS,Fraserburgh,Fraserburgh,1
+10,Aberdeenshire,AB44 1LX,MACDUFF,MACDUFF,1
+11,Aberdeenshire,AB51 3QR,Inverurie,Inverurie,1
+12,Banffshire,AB56 1BN,Buckie,Buckie,1
+13,Hertfordshire,AL1 1PQ,St. Albans,ST. ALBANS,1
+14,Hertfordshire,AL1 2PG,St. Albans,ST. ALBANS,1
+15,,B11 2EX,Birmingham,Birmingham,1
+16,Tysley,B11 2EX,Birmingham,Birmingham,1
+17,Birmingham,B11 2QL,Birmingham,Birmingham,1
+18,Sparkhill,B11 4DX,Birmingham,Birmingham,1
+19,Birmingham,B11 4JZ,Birmingham,Birmingham,1
+20,Birmingham,B12 8LA,Birmingham,Birmingham,1
+21,,B12 9LH,Birmingham,Birmingham,1
+22,Birmingham,B13 0BT,Birmingham,Birmingham,1
+23,Birmingham,B14 5EZ,Birmingham,Birmingham,1
+24,Birmingham,B14 5EZ,Birmingham,Birmingham,1
+25,West Midlands,B14 6EB,Birmingham,Birmingham,1
+26,West Midlands,B17 0QT,Birmingham,Birmingham,1
+27,West Midlands,B18 4HB,Birmingham,Birmingham,1
+28,West Midlands,B18 6LJ,Birmingham,Birmingham,1
+29,Birmingham,B18 6NG,Birmingham,Birmingham,1
+30,Birmingham,B19 1SU,Birmingham,Birmingham,1
+31,Birmingham,B19 2SW,Birmingham,Birmingham,1
+32,Birmingham,B20 2QL,Birmingham,Birmingham,1
+33,,B23 6EN,Birmingham,Birmingham,1
+34,Birmingham,B23 6NX,Birmingham,Birmingham,1
+35,West Midlands,B23 6UE,Birmingham,Birmingham,1
+36,West Midlands,B23 7AB,Birmingham,Birmingham,1
+37,,B24 0TJ,Birmingham,Birmingham,1
+38,Birmingham,B24 9PJ,Birmingham,Birmingham,1
+39,Birmingham,B26 1AL,Birmingham,Birmingham,1
+40,Birmingham,B26 3JR,Birmingham,Birmingham,1
+41,Birmingham,B27 6RG,Birmingham,Birmingham,1
+42,,B28 8PA,Birmingham,Birmingham,1
+43,Birmingham,B28 9AD,Birmingham,Birmingham,1
+44,Birmingham,B28 9HW,Birmingham,Birmingham,1
+45,Weoley Castle,B29 5QH,Birmingham,Birmingham,1
+46,,B29 6HJ,Birmingham,Birmingham,1
+47,,B31 2NS,Birmingham,Birmingham,1
+48,Northfield,B31 2SL,Birmingham,Birmingham,1
+49,Kitts Green,B33 0AP,Birmingham,Birmingham,1
+50,,B33 9SB,Birmingham,Birmingham,1
+51,Birmingham,B42 1NN,Birmingham,Birmingham,1
+52,,B42 1NN,Birmingham,Birmingham,1
+53,Birmingham,B42 1NN,Birmingham,Birmingham,1
+54,,B42 2LX,Birmingham,Birmingham,1
+55,,B42 2QS,Birmingham,Birmingham,1
+56,,B44 0QN,Birmingham,Birmingham,1
+57,,B44 8JP,Birmingham,Birmingham,1
+58,Birmingham,B45 0JD,Birmingham,Birmingham,1
+59,,B45 8SG,Birmingham,Birmingham,1
+60,,B45 9TZ,Birmingham,Birmingham,1
+61,,B6 5RW,Birmingham,Birmingham,1
+62,Birmingham,B6 5RW,Birmingham,Birmingham,1
+63,West Midlands,B61 0DF,Bromsgrove,Bromsgrove,1
+64,,B63 3BA,Halesowen,Halesowen,1
+65,,B65 0HS,Rowley Regis,Rowley Regis,1
+66,,B65 0JN,Rowley Regis,Rowley Regis,1
+67,Brimingham,B66 3EU,Smethwick,Smethwick,1
+68,,B66 4PB,Smethwick,Smethwick,1
+69,Smethwick,B66 4PH,Smethwick,Smethwick,1
+70,Birmingham,B68 0BZ,Oldbury,OLDBURY,1
+71,,B70 7NN,West Bromwich,West Bromwich,1
+72,,B70 7PN,West Bromwich,West Bromwich,1
+73,Tamworth,B78 1DX,Tamworth,TAMWORTH,1
+74,Birmingham,B8 1NH,Birmingham,Birmingham,1
+75,Birmingham,B8 2HJ,Birmingham,Birmingham,1
+76,Birmingham,B8 3PX,Birmingham,Birmingham,1
+77,Small Heath,B9 5QG,Birmingham,Birmingham,1
+78,,B9 5SR,Birmingham,Birmingham,1
+79,,B97 4RA,Redditch,Redditch,1
+80,Redditch,B97 4RA,Redditch,Redditch,1
+81,Worcestershire,B98 0EP,Redditch,Redditch,1
+82,,B98 0EP,Redditch,Redditch,1
+83,,B98 8LX,Redditch,Redditch,1
+84,Worcestershire,B98 9HE,Redditch,Redditch,1
+85,Bath And North East Somerset,BA1 2RS,Bath,BATH,1
+86,Somerset ,BA1 3BB,Bath,BATH,1
+87,Bath,BA1 4BX,Bath,BATH,1
+88,Warminster,BA12 9EF,Warminster,Warminster,1
+89,Wiltshire,BA13 3BW,Westbury,WESTBURY,1
+90,Trowbridge,BA14 0BA,Trowbridge,Trowbridge,1
+91,Wiltshire,BA14 8HA,Trowbridge,Trowbridge,1
+92,,BA14 8TJ,Trowbridge,Trowbridge,1
+93,Trowbridge,BA14 9QP,Trowbridge,Trowbridge,1
+94,Wiltshire,BA15 1JY,BRADFORD-ON-AVON,BRADFORD-ON-AVON,1
+95,Yeovil,BA20 1EQ,Yeovil,Yeovil,1
+96,,BA20 1NE,Yeovil,Yeovil,1
+97,,BB1 2AE,Blackburn,Blackburn,1
+98,,BB1 2HR,Blackburn,Blackburn,1
+99,Lancashire,BB1 4AD,Blackburn,Blackburn,1
+100,,BB1 5PD,Blackburn,Blackburn,1
+101,,BB1 6LD,Blackburn,Blackburn,1
+102,,BB10 1DT,Burnley,Burnley,1
+103,,BB10 1UR,Burnley,Burnley,1
+104,Burnley,BB11 1NA,Burnley,Burnley,1
+105,Burnley,BB11 1TQ,Burnley,Burnley,1
+106,Lancashire,BB11 2BU,Burnley,Burnley,1
+107,,BB11 4HU,Burnley,Burnley,1
+108,Burnley,BB11 4SB,Burnley,Burnley,1
+109,,BB12 6HH,Burnley,Burnley,1
+110,,BB2 1TB,Blackburn,Blackburn,1
+111,,BB2 4DT,Blackburn,Blackburn,1
+112,Rossendale,BB4 6AA,Rossendale,Rossendale,1
+113,Lancashire,BB5 1AR,Accrington,Accrington,1
+114,,BB5 1AS,Accrington,Accrington,1
+115,Lancashire,BB5 1AS,Accrington,Accrington,1
+116,,BB5 1EH,Accrington,Accrington,1
+117,,BB5 1JJ,Accrington,Accrington,1
+118,,BB5 1LL,Accrington,Accrington,1
+119,,BB5 1SA,Accrington,Accrington,1
+120,Lancashire,BB7 1AW,Clitheroe,Clitheroe,1
+121,Clitheroe,BB7 1EE,Clitheroe,Clitheroe,1
+122,Nelson,BB9 7HD,Nelson,NELSON,1
+123,Lancashire,BB9 9SG,Nelson,NELSON,1
+124,,BB9 9SJ,Nelson,NELSON,1
+125,,BD1 1SX,Bradford,Bradford,1
+126,,BD1 3EP,Bradford,Bradford,1
+127,,BD10 0JJ,Bradford,Bradford,1
+128,,BD15 7QU,Bradford,Bradford,1
+129,West Yorkshire,BD157QE,Wrong Input,West Bromwich,0
+130,,BD18 1PB,Shipley,SHIPLEY,1
+131,,BD18 3HN,Shipley,SHIPLEY,1
+132,,BD18 4SB,Shipley,SHIPLEY,1
+133,,BD2 2DW,Bradford,Bradford,1
+134,,BD2 2HL,Bradford,Bradford,1
+135,,BD2 3ES,Bradford,Bradford,1
+136,,BD2 4QF,Bradford,Bradford,1
+137,West YOrkshire,BD21 3AD,Keighley,Keighley,1
+138,,BD21 5JA,Keighley,Keighley,1
+139,,BD23 2TA,Skipton,Skipton,1
+140,,BD3 8QR,Bradford,Bradford,1
+141,,BD3 9DY,Bradford,Bradford,1
+142,Bradford,BD3 9QX,Bradford,Bradford,1
+143,Yorkshire,BD3 9RA,Bradford,Bradford,1
+144,,BD4 6LX,Bradford,Bradford,1
+145,Bradford,BD4 9LU,Bradford,Bradford,1
+146,Bradford,BD4 9SA,Bradford,Bradford,1
+147,Bradford,BD5 0QZ,Bradford,Bradford,1
+148,West Yorkshire,BD7 1AF,Bradford,Bradford,1
+149,,BD7 1AL,Bradford,Bradford,1
+150,West Yorkshire,BD7 1AU,Bradford,Bradford,1
+151,,BD7 1AZ,Bradford,Bradford,1
+152,West Yorkshire,BD7 1QG,Bradford,Bradford,1
+153,,BD7 1QJ,Bradford,Bradford,1
+154,,BD7 2BR,Bradford,Bradford,1
+155,,BD7 2HQ,Bradford,Bradford,1
+156,,BD7 4EF,Bradford,Bradford,1
+157,,BD7 4EF,Bradford,Bradford,1
+158,,BD8 0QB,Bradford,Bradford,1
+159,West Yorkshire,BD8 8DP,Bradford,Bradford,1
+160,,BD8 9NL,Bradford,Bradford,1
+161,Bradford,BD9 4QU,Bradford,Bradford,1
+162,,BD9 5ES,Bradford,Bradford,1
+163,Dorset,BH1 1PH,Bournemouth,Bournemouth,1
+164,,BH1 4AH,Bournemouth,Bournemouth,1
+165,,BH21 1HN,Wimborne,WIMBORNE,1
+166,,BH21 1HN,Wimborne,WIMBORNE,1
+167,Dorset,BH21 1RJ,Wimborne,WIMBORNE,1
+168,Dorset,BH21 7QD,Wimborne,WIMBORNE,1
+169,,BH23 2AP,Christchurch,CHRISTCHURCH,1
+170,Hampshire,BH24 1AN,Ringwood,Ringwood,1
+171,Hampshire,BH25 6DX,New Milton,New Milton,1
+172,,BH3 7AT,Bournemouth,Bournemouth,1
+173,,BH6 3LA,Bournemouth,Bournemouth,1
+174,,BH8 9QW,Bournemouth,Bournemouth,1
+175,Bolton,BL1 1SN,Bolton,Bolton,1
+176,BOLTON,BL1 4JU,Bolton,Bolton,1
+177,,BL1 4JU,Bolton,Bolton,1
+178,,BL1 8DU,Bolton,Bolton,1
+179,Bolton,BL2 6HX,Bolton,Bolton,1
+180,Bolton,BL3 5QU,Bolton,Bolton,1
+181,Farnworth,BL4 7LE,Bolton,Bolton,1
+182,,BL4 8LA,Bolton,Bolton,1
+183,,BL4 9HE,Bolton,Bolton,1
+184,Blackrod,BL6 5EE,Bolton,Bolton,1
+185,Bury,BL8 1LB,Bury,Bury,1
+186,Lancashire,BL8 1LB,Bury,Bury,1
+187,,BL9 0AY,Bury,Bury,1
+188,,BL9 7AF,Bury,Bury,1
+189,Lancashire,BL9 7BA,Bury,Bury,1
+190,East Sussex,BN1 1NJ,Brighton,Brighton,1
+191,London,BN1 3XD,Brighton,Brighton,1
+192,,BN1 4QF,Brighton,Brighton,1
+193,,BN11 3JN,Worthing,Worthing,1
+194,Brighton,BN2 8LG,Brighton,Brighton,1
+195,Eastbourne,BN21 3DH,Eastbourne,Eastbourne,1
+196,,BN21 3EU,Eastbourne,Eastbourne,1
+197,East Sussex,BN21 3QA,Eastbourne,Eastbourne,1
+198,,BN22 0AS,Eastbourne,Eastbourne,1
+199,,BN22 7NG,Eastbourne,Eastbourne,1
+200,Brighton,BN25 1QU,Seaford,SEAFORD,1
+201,,BN3 1AE,Hove,Hove,1
+202,Hove,BN3 2DJ,Hove,Hove,1
+203,East Sussex,BN3 3HD,Hove,Hove,1
+204,,BN3 7JL,Hove,Hove,1
+205,,BR1 3PE,Bromley,Bromley,1
+206,1,BR1 3PU,Bromley,Bromley,1
+207,,BR2 7PR,Keston,Keston,1
+208,,BR2 9LD,Keston,Keston,1
+209,,BR3 1DZ,Beckenham,Beckenham,1
+210,Greater Londo,BR3 3RA,Beckenham,Beckenham,1
+211,,BS1 4BY,Bristol,Bristol,1
+212,,BS10 5PL,Bristol,Bristol,1
+213,Bristol,BS16 5NJ,Bristol,Bristol,1
+214,Weston-super-Mare,BS22 6HN,Weston-Super-Mare,Weston-super-Mare,1
+215,Somerset,BS27 3QA,Cheddar,CHEDDAR,1
+216,,BS37 4NG,Bristol,Bristol,1
+217,Bristol North,BS37 5UY,Bristol,Bristol,1
+218,Bristol,BS4 2QG,Bristol,Bristol,1
+219,Bristol,BS4 3EU,Bristol,Bristol,1
+220,Somerset,BS4 4AL,Bristol,Bristol,1
+221,Nailsea,BS48 1RD,Bristol,Bristol,1
+222,,BS48 3HL,Bristol,Bristol,1
+223,,BS5 6RD,Bristol,Bristol,1
+224,Bristol,BS5 8AA,Bristol,Bristol,1
+225,,BS5 8AQ,Bristol,Bristol,1
+226,City of Bristol,BS5 9LA,Bristol,Bristol,1
+227,Bristol,BS5 9LA,Bristol,Bristol,1
+228,Bristol,BS6 6LA,Bristol,Bristol,1
+229,Bristol,BS6 6PG,Bristol,Bristol,1
+230,,BS7 0QE,Bristol,Bristol,1
+231,,BS8 2XS,Bristol,Bristol,1
+232,,BT11 8BA,Belfast,Belfast,1
+233,,BT17 0PB,Belfast,Belfast,1
+234,Hollywood,BT18 9LG,Holywood,Holywood,1
+235,,BT20 3AH,BANGOR,BANGOR,1
+236,Northern Ireland,BT20 4LF,BANGOR,BANGOR,1
+237,Northern Ireland,BT38 8AT,Carrickfergus,Carrickfergus,1
+238,Northern Ireland,BT38 9QD,Carrickfergus,Carrickfergus,1
+239,,BT4 2AA,Belfast,Belfast,1
+240,Uk,BT4 3JD,Belfast,Belfast,1
+241,,BT41 4BA,ANTRIM,ANTRIM,1
+242,,BT48 7BW,LONDONDERRY,LONDONDERRY,1
+243,,BT48 9AT,LONDONDERRY,LONDONDERRY,1
+244,Londonderry,BT48 9BX,LONDONDERRY,LONDONDERRY,1
+245,,BT62 1PA,Craigavon,Craigavon,1
+246,,BT63 5AA,Craigavon,Craigavon,1
+247,Portadown,BT63 5AA,Craigavon,Craigavon,1
+248,BELFAST,BT9 7EN,Belfast,Belfast,1
+249,Carlisle,CA1 1QP,Carlisle,CARLISLE,1
+250,Carlisle,CA1 1QP,Carlisle,CARLISLE,1
+251,Cumbria,CA1 1QP,Carlisle,CARLISLE,1
+252,Cumbria,CA1 1QS,Carlisle,CARLISLE,1
+253,Cumbria,CA1 1RP,Carlisle,CARLISLE,1
+254,Carlisle,CA1 1SH,Carlisle,CARLISLE,1
+255,Carlisle,CA1 2JZ,Carlisle,CARLISLE,1
+256,Carlisle,CA1 2JZ,Carlisle,CARLISLE,1
+257,Cumbria,CA1 2LS,Carlisle,CARLISLE,1
+258,Carlisle,CA1 2SN,Carlisle,CARLISLE,1
+259,Carlisle,CA1 3AH,Carlisle,CARLISLE,1
+260,,CA11 7BL,penrith,PENRITH,1
+261,Carlisle,CA11AA,Carlisle,CARLISLE,1
+262,Seaton,CA14 1HY,Workington,Workington,1
+263,Cumbria,CA14 3AW,Workington,Workington,1
+264,Workington,CA14 3BW,Workington,Workington,1
+265,Workington,CA14 3EF,Workington,Workington,1
+266,Cumbria,CA14 3YW,Workington,Workington,1
+267,Cumbria,CA14 4AZ,Workington,Workington,1
+268,Cumbria,CA14 4HA,Workington,Workington,1
+269,,CA15 7HP,Maryport,Maryport,1
+270,,CA15 8QU,Maryport,Maryport,1
+271,Cumbria,CA2 4AJ,Carlisle,CARLISLE,1
+272,Carlisle,CA2 4RA,Carlisle,CARLISLE,1
+273,Cumbria,CA2 5EN,Carlisle,CARLISLE,1
+274,Carlisle,CA2 5TY,Carlisle,CARLISLE,1
+275,,CA2 8XW,Carlisle,CARLISLE,1
+276,Cumbria,CA22 2DR,Egremont,EGREMONT,1
+277,Cumbria,CA25 5LA,Cleator Moor,Cleator Moor,1
+278,,CA26 3SB,Frizington,Frizington,1
+279,,CA28 7ER,Whitehaven,Whitehaven,1
+280,,CA28 7ER,Whitehaven,Whitehaven,1
+281,,CA28 7ET,Whitehaven,Whitehaven,1
+282,Cumbria,CA28 7JH,Whitehaven,Whitehaven,1
+283,,CA28 7LA,Whitehaven,Whitehaven,1
+284,,CA3 8NX,Carlisle,CARLISLE,1
+285,,CA3 9SF,Carlisle,CARLISLE,1
+286,Wigton,CA7 4HS,Wigton,Wigton,1
+287,Cambridge,CB1 2AW,Cambridge,Cambridge,1
+288,Cambridgeshire,CB2 1HN,Cambridge,Cambridge,1
+289,Cambridgeshire,CB23 3RJ,Cambridge,Cambridge,1
+290,,CB4 1NS,Cambridge,Cambridge,1
+291,Cambridgeshire,CB6 1NE,Ely,ELY,1
+292,Cambridgeshire,CB6 2RB,Ely,ELY,1
+293,Cambridgeshire,CB7 4AH,Ely,ELY,1
+294,Cambridgeshire,CB7 4LN,Ely,ELY,1
+295,Cambridgeshire,CB7 4LZ,Ely,ELY,1
+296,Suffolk,CB8 0BP,Newmarket,NEWMARKET,1
+297,,CB8 0QL,Newmarket,NEWMARKET,1
+298,,CF11 6AJ,Cardiff,Cardiff,1
+299,Cardiff,CF11 6NJ,Cardiff,Cardiff,1
+300,,CF11 6RU,Cardiff,Cardiff,1
+301,,CF11 7AN,Cardiff,Cardiff,1
+302,,CF11 9DX,Cardiff,Cardiff,1
+303,Cardiff,CF14 2AA,Cardiff,Cardiff,1
+304,Glamorgan,CF14 2FE,Cardiff,Cardiff,1
+305,Cardiff,CF14 3BN,Cardiff,Cardiff,1
+306,Cardiff,CF14 3LZ,Cardiff,Cardiff,1
+307,,CF14 4AE,Cardiff,Cardiff,1
+308,,CF24 1NL,Cardiff,Cardiff,1
+309,,CF24 2BZ,Cardiff,Cardiff,1
+310,,CF24 2DA,Cardiff,Cardiff,1
+311,,CF24 3BN,Cardiff,Cardiff,1
+312,,CF24 3BT,Cardiff,Cardiff,1
+313,,CF24 3DL,Cardiff,Cardiff,1
+314,Cardiff,CF24 3DR,Cardiff,Cardiff,1
+315,Cardiff,CF24 3JB,Cardiff,Cardiff,1
+316,,CF24 3JF,Cardiff,Cardiff,1
+317,,CF24 3JH,Cardiff,Cardiff,1
+318,Cardiff,CF24 3JH,Cardiff,Cardiff,1
+319,Cardiff,CF24 4AE,Cardiff,Cardiff,1
+320,South Glamorgan,CF24 4ND,Cardiff,Cardiff,1
+321,,CF24 4NQ,Cardiff,Cardiff,1
+322,,CF24 4NR,Cardiff,Cardiff,1
+323,Cardiff,CF3 5SN,Cardiff,Cardiff,1
+324,Cardiff,CF3 5SZ,Cardiff,Cardiff,1
+325,Bridgend,CF31 1EB,Bridgend,Bridgend,1
+326,,CF31 1LR,Bridgend,Bridgend,1
+327,Bridgend,CF31 3AE,Bridgend,Bridgend,1
+328,Village Farm,CF33 6NU,Bridgend,Bridgend,1
+329,,CF37 1QJ,Pontypridd,Pontypridd,1
+330,Pontypridd,CF37 1SN,Pontypridd,Pontypridd,1
+331,,CF37 1SN,Pontypridd,Pontypridd,1
+332,R.C.T,CF37 1TW,Pontypridd,Pontypridd,1
+333,,CF37 4TR,Pontypridd,Pontypridd,1
+334,,CF37 4TR,Pontypridd,Pontypridd,1
+335,Cardiff,CF37 4TR,Pontypridd,Pontypridd,1
+336,,CF38 2AD,Pontypridd,Pontypridd,1
+337,,CF39 8DS,Porth,Porth,1
+338,Porth,CF39 9RA,Porth,Porth,1
+339,Porth,CF39 9RB,Porth,Porth,1
+340,,CF39 9RT,Porth,Porth,1
+341,,CF40 2QZ,Tonypandy,Tonypandy,1
+342,,CF43 4NN,Ferndale,FERNDALE,1
+343,,CF44 7AA,Aberdare,Aberdare,1
+344,South Wales,CF44 7LA,Aberdare,Aberdare,1
+345,,CF44 9HD,Aberdare,Aberdare,1
+346,South Wales,CF45 3AE,Mountain Ash,MOUNTAIN ASH,1
+347,Mid Glamorgan,CF45 3HB,Mountain Ash,MOUNTAIN ASH,1
+348,Abercynon,CF45 4RE,Mountain Ash,MOUNTAIN ASH,1
+349,Merthyr Tydfil,CF47 8UL,Merthyr Tydfil,Merthyr Tydfil,1
+350,Mid Glamorgan,CF47 8UN,Merthyr Tydfil,Merthyr Tydfil,1
+351,,CF48 1YF,Merthyr Tydfil,Merthyr Tydfil,1
+352,Cardiff,CF5 1JJ,Cardiff,Cardiff,1
+353,,CF5 4RD,Cardiff,Cardiff,1
+354,Llantwit Major,CF61 1XY,Llantwit Major,Llantwit Major,1
+355,,CF62 7AA,Barry,BARRY,1
+356,Barry,CF62 7AB,Barry,BARRY,1
+357,Glamorgan,CF63 1BA,Barry,BARRY,1
+358,Barry,CF63 1BA,Barry,BARRY,1
+359,,CF63 4HQ,Barry,BARRY,1
+360,,CF63 4HT,Barry,BARRY,1
+361,Vale of Glamorgen,CF64 1ED,Penarth,Penarth,1
+362,,CF72 8AP,Pontyclun,Pontyclun,1
+363,Mid Glamorgan,CF72 9LJ,Pontyclun,Pontyclun,1
+364,,CF72 9RA,Pontyclun,Pontyclun,1
+365,,CF81 9EX,Bargoed,Bargoed,1
+366,,CH1 3DN,Chester,Chester,1
+367,Cheshire,CH1 4EY,Chester,Chester,1
+368,Chester,CH1 5HN,Chester,Chester,1
+369,Cheshire,CH2 1QL,Chester,Chester,1
+370,,CH41 4DB,Birkenhead,Birkenhead,1
+371,,CH41 5BT,Birkenhead,Birkenhead,1
+372,,CH41 8EN,Birkenhead,Birkenhead,1
+373,,CH42 8PE,Birkenhead,Birkenhead,1
+374,,CH45 3HA,Wallasey,Wallasey,1
+375,,CH47 2BH,WIRRAL,WIRRAL,1
+376,,CH5 1BY,Deeside,Deeside,1
+377,,CH5 4DD,Deeside,Deeside,1
+378,Flint,CH6 5NR,Bagillt,FLINT,0
+379,Bromborough,CH62 6BB,WIRRAL,WIRRAL,1
+380,,CH63 8LG,WIRRAL,WIRRAL,1
+381,Cheshire,CH65 8AE,Ellesmere Port,Ellesmere Port,1
+382,,CH65 8BU,Ellesmere Port,Ellesmere Port,1
+383,,CH66 1LR,Ellesmere Port,Ellesmere Port,1
+384,Cheshire,CH66 2RG,Ellesmere Port,Ellesmere Port,1
+385,Great Sutton,CH66 3PG,Ellesmere Port,Ellesmere Port,1
+386,Cheshire,CH66 3RB,Ellesmere Port,Ellesmere Port,1
+387,,CH7 1BH,Buckley,MOLD,0
+388,,CH7 3AE,Buckley,MOLD,0
+389,,CM11 2DN,Billericay,Billericay,1
+390,Essex,CM14 5HT,BRENTWOOD,BRENTWOOD,1
+391,,CM16 4BA,EPPING,EPPING,1
+392,,CM17 0DW,Harlow,Harlow,1
+393,,CM17 0HL,Harlow,Harlow,1
+394,Essex,CM18 6LX,Harlow,Harlow,1
+395,,CM2 0JA,Chelmsford,Chelmsford,1
+396,Essex,CM2 0LF,Chelmsford,Chelmsford,1
+397,Essex,CM2 7LJ,Chelmsford,Chelmsford,1
+398,Essex,CM20 3AB,Harlow,Harlow,1
+399,Harlow,CM20 3AB,Harlow,Harlow,1
+400,,CM20 3AN,Harlow,Harlow,1
+401,,CM23 2FN,Bishop's Stortford,Bishop's Stortford,1
+402,Hertfordshire,CM23 3DH,Bishop's Stortford,Bishop's Stortford,1
+403,Essex,CM7 3HP,BRAINTREE,BRAINTREE,1
+404,,CO1 1JJ,Colchester,Colchester,1
+405,Colchester,CO1 1SZ,Colchester,Colchester,1
+406,Colchester,CO1 2AA,Colchester,Colchester,1
+407,Essex,CO1 2JX,Colchester,Colchester,1
+408,Essex,CO1 2LJ,Colchester,Colchester,1
+409,,CO1 2LJ,Colchester,Colchester,1
+410,Essex,CO1 2TQ,Colchester,Colchester,1
+411,Poplar Road,CO10 0GL,Sudbury,SUDBURY,1
+412,ESSEX,CO12 3AJ,Harwich,Harwich,1
+413,Essex,CO12 3DS,Harwich,Harwich,1
+414,,CO12 4LZ,Harwich,Harwich,1
+415,Colchester,CO2 7DA,Colchester,Colchester,1
+416,Colchester,CO2 7DA,Colchester,Colchester,1
+417,Essex,CO2 7DB,Colchester,Colchester,1
+418,Colchester,CO2 7EA,Colchester,Colchester,1
+419,Colchester,CO2 7EB,Colchester,Colchester,1
+420,Colchester,CO2 8LY,Colchester,Colchester,1
+421,Essex,CO3 3DA,Colchester,Colchester,1
+422,Colchester,CO4 3XZ,Colchester,Colchester,1
+423,Colchester,CO4 3XZ,Colchester,Colchester,1
+424,Colchester,CO7 7PP,Colchester,Colchester,1
+425,Surrey,CR0 7AE,Croydon,Croydon,1
+426,,CR0 7ER,Croydon,Croydon,1
+427,London,CR0 8BJ,Croydon,Croydon,1
+428,Greater London,CR2 9BX,South Croydon,South Croydon,1
+429,Surrey,CR3 5NU,Whyteleafe,Whyteleafe,1
+430,Mitcham,CR4 1LU,Mitcham,Mitcham,1
+431,London,CR7 8LE,Thornton Heath,Thornton Heath,1
+432,Surrey,CR8 2AY,Kenley,PURLEY,0
+433,,CT11 7DF,Ramsgate,Ramsgate,1
+434,Kent,CT11 9ER,Ramsgate,Ramsgate,1
+435,Kent,CT5 4SD,Whitstable,Whitstable,1
+436,Kent,CT9 1UN,Margate,Margate,1
+437,,CT9 2PA,Margate,Margate,1
+438,,CV1 1FJ,Coventry,Coventry,1
+439,Coventry,CV1 1JB,Coventry,Coventry,1
+440,West Midlands,CV1 3GJ,Coventry,Coventry,1
+441,Coventry,CV11 5BX,Nuneaton,Nuneaton,1
+442,Coventry,CV2 3NG,Coventry,Coventry,1
+443,,CV2 4BL,Coventry,Coventry,1
+444,Coventry,CV2 4LZ,Coventry,Coventry,1
+445,,CV21 3PT,Rugby,RUGBY,1
+446,,CV3 1BA,Coventry,Coventry,1
+447,,CV3 6AU,Coventry,Coventry,1
+448,,CV31 1NL,Leamington Spa,LEAMINGTON SPA,1
+449,Leamington Spa,CV32 7NA,Leamington Spa,LEAMINGTON SPA,1
+450,,CV34 4TD,Warwick,Warwick,1
+451,Holbrooks,CV6 4AB,Coventry,Coventry,1
+452,,CV6 4AB,Coventry,Coventry,1
+453,,CV6 4BY,Coventry,Coventry,1
+454,Coventry,CV6 4GG,Coventry,Coventry,1
+455,,CV6 4HH,Coventry,Coventry,1
+456,Coventry,CV6 5AU,Coventry,Coventry,1
+457,West Midlands,CV6 5EQ,Coventry,Coventry,1
+458,Coventry,CV6 6EE,Coventry,Coventry,1
+459,West Midlands,CV6 6EN,Coventry,Coventry,1
+460,Hollbroks,CV6 6FT,Coventry,Coventry,1
+461,Coventry,CV6 7AQ,Coventry,Coventry,1
+462,,CW1 2BS,Crewe,Crewe,1
+463,Cheshire East,CW1 4JJ,Crewe,Crewe,1
+464,Cheshire,CW10 9AB,Middlewich,Middlewich,1
+465,Cheshire,CW10 9AN,Middlewich,Middlewich,1
+466,Cheshire,CW11 1AH,Sandbach,Sandbach,1
+467,Cheshire,CW11 1DH,Sandbach,Sandbach,1
+468,Cheshire,CW11 1DH,Sandbach,Sandbach,1
+469,Sandbach,CW11 1GB,Sandbach,Sandbach,1
+470,Cheshire,CW12 1BD,Congleton,Congleton,1
+471,Cheshire,CW12 1HG,Congleton,Congleton,1
+472,Cheshire,CW12 1RP,Congleton,Congleton,1
+473,Cheshire,CW12 1RS,Congleton,Congleton,1
+474,,CW2 6AF,Crewe,Crewe,1
+475,Cheshire,CW2 6AF,Crewe,Crewe,1
+476,Cheshire,CW2 6AL,Crewe,Crewe,1
+477,,CW2 6AW,Crewe,Crewe,1
+478,Cheshire,CW2 6AW,Crewe,Crewe,1
+479,Cheshire,CW2 6AX,Crewe,Crewe,1
+480,Crewe,CW2 7AJ,Crewe,Crewe,1
+481,Cheshire,CW2 7EF,Crewe,Crewe,1
+482,Cheshire,CW2 7EF,Crewe,Crewe,1
+483,Cheshire,CW2 7EP,Crewe,Crewe,1
+484,,CW2 7EP,Crewe,Crewe,1
+485,Cheshire,CW4 7AJ,Crewe,Crewe,1
+486,Cheshire,CW5 5ED,Nantwich,Nantwich,1
+487,Cheshire,CW5 5LN,Nantwich,Nantwich,1
+488,,CW7 2AD,Winsford,Winsford,1
+489,,CW7 2AP,Winsford,Winsford,1
+490,,CW8 1HG,Northwich,Northwich,1
+491,,CW8 1JQ,Northwich,Northwich,1
+492,Northwich,CW9 5AE,Northwich,Northwich,1
+493,Cheshire,CW9 5QY,Northwich,Northwich,1
+494,UK,CW9 8BQ,Northwich,Northwich,1
+495,Cheshire,CW9 8UW,Northwich,Northwich,1
+496,,DA1 1BG,Dartford,Dartford,1
+497,Dartford,DA1 1EW,Dartford,Dartford,1
+498,Kent,DA1 1YD,Dartford,Dartford,1
+499,,DA11 9HG,Gravesend,GRAVESEND,1
+500,Kent,DA16 3PG,Welling,Wrong Input,0
+501,Kent,DA17 6LY,Belvedere,BELVEDERE,1
+502,London,DA7 5HD,Welling,Welling,1
+503,Scotland,DD1 4JA,Dundee,Dundee,1
+504,Fife,DD1 5GP,Dundee,Dundee,1
+505,Dundee,DD1 5LZ,Dundee,Dundee,1
+506,Angus,DD10 8JD,Montrose,MONTROSE,1
+507,Scotland,DD10 8JD,Montrose,MONTROSE,1
+508,,DD10 8PH,Montrose,MONTROSE,1
+509,Angus,DD11 1RG,Arbroath,Arbroath,1
+510,,DD2 5AB,Dundee,Dundee,1
+511,Dundee,DD3 7RX,Dundee,Dundee,1
+512,,DD4 6TE,Dundee,Dundee,1
+513,Brechin,DD9 6ER,Brechin,Brechin,1
+514,,DE1 2AW,Derby,Derby,1
+515,Derby,DE1 2RU,Derby,Derby,1
+516,Derby,DE1 3BH,Derby,Derby,1
+517,Woodville,DE11 7EH,Swadlincote,Swadlincote,1
+518,,DE13 9LS,Burton-On-Trent,BURTON-ON-TRENT,1
+519,Billing CountyBurton Upon Trent,DE14 1DB,Burton-On-Trent,BURTON-ON-TRENT,1
+520,Staffordshire,DE14 2LA,Burton-On-Trent,BURTON-ON-TRENT,1
+521,Staffordshire,DE14 2NB,Burton-On-Trent,BURTON-ON-TRENT,1
+522,Staffordshire,DE14 3BS,Burton-On-Trent,BURTON-ON-TRENT,1
+523,Staffordshire,DE14 3BS,Burton-On-Trent,BURTON-ON-TRENT,1
+524,Derby,DE21 2BN,Derby,Derby,1
+525,Derby,DE21 6JR,Derby,Derby,1
+526,Derby,DE21 6PF,Derby,Derby,1
+527,Derby,DE21 6PF,Derby,Derby,1
+528,Derby,DE22 3SJ,Derby,Derby,1
+529,Derbyshire,DE22 3SJ,Derby,Derby,1
+530,Derby,DE23 1JB,Derby,Derby,1
+531,,DE23 1JB,Derby,Derby,1
+532,,DE23 3TZ,Derby,Derby,1
+533,Derby,DE23 6FP,Derby,Derby,1
+534,Derby,DE23 6RH,Derby,Derby,1
+535,,DE23 6UT,Derby,Derby,1
+536,,DE23 6WE,Derby,Derby,1
+537,Derbyshire,DE24 9BQ,Derby,Derby,1
+538,Derbyshire,DE45 1HA,Bakewell,Bakewell,1
+539,,DE55 7BJ,Alfreton,Alfreton,1
+540,Belper,DE56 1BA,Belper,Belper,1
+541,Belper,DE56 1FZ,Belper,Belper,1
+542,Derbyshire,DE56 1LW,Belper,Belper,1
+543,Derbyshire,DE56 1SA,Belper,Belper,1
+544,,DE7 5LL,Ilkeston,Ilkeston,1
+545,Derbyshire,DE7 8AS,Ilkeston,Ilkeston,1
+546,,DE7 8FF,Ilkeston,Ilkeston,1
+547,Derbyshire,DE7 9HE,Ilkeston,Ilkeston,1
+548,,DE74 2EN,Derby,Derby,1
+549,Derby,DE74 2PE,Derby,Derby,1
+550,Dumfries,DG1 1BY,Dumfries,Dumfries,1
+551,Dumfries,DG1 1HJ,Dumfries,Dumfries,1
+552,Dumfries,DG1 2DA,Dumfries,Dumfries,1
+553,,DG1 2RS,Dumfries,Dumfries,1
+554,Annan,DG12 6JH,Annan,ANNAN,1
+555,Gretna,DG16 5AG,Gretna,GRETNA,1
+556,Castle Douglas,DG7 1DE,Castle Douglas,Castle Douglas,1
+557,,DH3 4JR,Chester Le Street,CHESTER LE STREET,1
+558,Brandon,DH7 8PL,Durham,DURHAM,1
+559,Durham,DH9 0HU,Stanley,STANLEY,1
+560,County Durham,DH9 0HU,Stanley,STANLEY,1
+561,County Durham,DL1 1BA,Darlington,Darlington,1
+562,Darlington,DL1 1TZ,Darlington,Darlington,1
+563,County durham,DL1 1XH,Darlington,Darlington,1
+564,Darlington,DL1 4XJ,Darlington,Darlington,1
+565,Darlington,DL1 5JQ,Darlington,Darlington,1
+566,Durham,DL14 6HS,Bishop Auckland,Bishop Auckland,1
+567,County Durham,DL14 9ER,Bishop Auckland,Bishop Auckland,1
+568,,DL15 0AA,Crook,CROOK,1
+569,Durham,DL15 0AD,Crook,CROOK,1
+570,,DL15 8NE,Crook,CROOK,1
+571,,DL17 0EJ,Ferryhill,Wrong Input,0
+572,,DL17 8LA,Ferryhill,Wrong Input,0
+573,Darlington,DL3 6EZ,Darlington,Darlington,1
+574,,DL4 1DT,Shildon,Shildon,1
+575,,DL4 1DX,Shildon,Shildon,1
+576,County Durham,DL5 4UE,Newton Aycliffe,Newton Aycliffe,1
+577,,DL5 6UJ,Newton Aycliffe,Newton Aycliffe,1
+578,,DN14 5DE,Goole,Goole,1
+579,Goole,DN14 5UN,Goole,Goole,1
+580,,DN14 6HD,Goole,Goole,1
+581,,DN15 7JW,Scunthorpe,Scunthorpe,1
+582,,DN15 7TG,Scunthorpe,Scunthorpe,1
+583,Scunthorpe,DN16 2SD,Scunthorpe,Scunthorpe,1
+584,Yorkshire,DN2 4BB,Doncaster,Doncaster,1
+585,,DN21 4BD,Gainsborough,GAINSBOROUGH,1
+586,Barnby Dun,DN3 1AX,Doncaster,Doncaster,1
+587,,DN3 3DL,Doncaster,Doncaster,1
+588,,DN31 2DF,Grimsby,Grimsby,1
+589,,DN31 3BE,Grimsby,Grimsby,1
+590,,DN32 9DW,Grimsby,Grimsby,1
+591,,DN32 9EP,Grimsby,Grimsby,1
+592,,DN34 5LA,Grimsby,Grimsby,1
+593,Grimsby,DN35 7AQ,Cleethorpes,Cleethorpes,1
+594,,DN35 7DD,Cleethorpes,Cleethorpes,1
+595,,DN35 8JW,Cleethorpes,Cleethorpes,1
+596,,DN37 0LT,Grimsby,Grimsby,1
+597,,DN4 0BG,Doncaster,Doncaster,1
+598,,DN4 0RE,Doncaster,Doncaster,1
+599,,DN4 9DL,Doncaster,Doncaster,1
+600,,DN40 1NJ,Immingham,Immingham,1
+601,,DN40 1QR,Immingham,Immingham,1
+602,Doncaster,DN6 0JA,Doncaster,Doncaster,1
+603,Dorset,DT3 5HU,Weymouth,WEYMOUTH,1
+604,,DT4 0AD,Weymouth,WEYMOUTH,1
+605,Dudley,DY1 1DB,Dudley,Dudley,1
+606,,DY1 3AP,Dudley,Dudley,1
+607,,DY10 2EL,Kidderminster,Kidderminster,1
+608,,DY13 8DT,Stourport-On-Severn,Stourport-on-Severn,1
+609,Tipton,DY4 7EX,Tipton,Tipton,1
+610,West Midlands,DY4 8RD,Tipton,Tipton,1
+611,Dudley,DY5 2JW,Brierley Hill,Brierley Hill,1
+612,,DY6 8AA,Kingswinford,Kingswinford,1
+613,,DY8 1AE,Stourbridge,Stourbridge,1
+614,West Midlands,DY8 2JD,Stourbridge,Stourbridge,1
+615,St Lye,DY9 8JX,Stourbridge,Stourbridge,1
+616,Leyton,E10 5JY,London,LONDON,1
+617,London,E11 3HU,London,LONDON,1
+618,,E14 0ED,London,LONDON,1
+619,London,E17 3JF,London,LONDON,1
+620,London,E17 5DN,London,LONDON,1
+621,,E17 7JH,London,LONDON,1
+622,London,E18 1AY,London,LONDON,1
+623,,E2 0EJ,London,LONDON,1
+624,,E2 6LG,London,LONDON,1
+625,,E3 2SJ,London,LONDON,1
+626,London,E6 1LA,London,LONDON,1
+627,,E7 0EP,London,LONDON,1
+628,London,E8 2AQ,London,LONDON,1
+629,,E9 6RQ,London,LONDON,1
+630,,EC1R 0DR,London,LONDON,1
+631,Edinburgh,EH10 4QP,Edinburgh,Edinburgh,1
+632,Edinburgh,EH10 6AG,Edinburgh,Edinburgh,1
+633,Edinburgh,EH11 1TU,Edinburgh,Edinburgh,1
+634,Edinburgh,EH11 1UB,Edinburgh,Edinburgh,1
+635,Edinburgh,EH11 3AL,Edinburgh,Edinburgh,1
+636,,EH11 3AL,Edinburgh,Edinburgh,1
+637,Edinburgh,EH11 4JN,Edinburgh,Edinburgh,1
+638,Edinburgh,EH15 1AH,Edinburgh,Edinburgh,1
+639,Midlothian,EH15 2AT,Edinburgh,Edinburgh,1
+640,Bonnyrigg,EH19 3EB,Bonnyrigg,Bonnyrigg,1
+641,,EH19 3PA,Bonnyrigg,Bonnyrigg,1
+642,Musselburgh,EH21 6LX,Musselburgh,Musselburgh,1
+643,Midlothian,EH22 1AY,Dalkeith,Dalkeith,1
+644,,EH22 1AZ,Dalkeith,Dalkeith,1
+645,Midlothian,EH23 4BX,Gorebridge,Gorebridge,1
+646,Edinburgh,EH3 9JH,Edinburgh,Edinburgh,1
+647,,EH3 9JP,Edinburgh,Edinburgh,1
+648,Edinburgh,EH4 2SW,Edinburgh,Edinburgh,1
+649,,EH4 2SW,Edinburgh,Edinburgh,1
+650,Midlothian,EH4 4TD,Edinburgh,Edinburgh,1
+651,Uphall,EH52 5DN,Broxburn,BROXBURN,1
+652,,EH52 6EE,Broxburn,BROXBURN,1
+653,Livingston,EH54 6JH,Livingston,LIVINGSTON,1
+654,Edinburgh,EH6 4AF,Edinburgh,Edinburgh,1
+655,Edinburgh,EH6 4AF,Edinburgh,Edinburgh,1
+656,Edinburgh,EH6 8DT,Edinburgh,Edinburgh,1
+657,Edinburgh,EH6 8LS,Edinburgh,Edinburgh,1
+658,Edinburgh,EH6 8PD,Edinburgh,Edinburgh,1
+659,,EH7 5HN,Edinburgh,Edinburgh,1
+660,,EH7 5SN,Edinburgh,Edinburgh,1
+661,,EH7 5TY,Edinburgh,Edinburgh,1
+662,,EH8 9QY,Edinburgh,Edinburgh,1
+663,Hoddesdon,EN11 8UB,Broxbourne,Hoddesdon,0
+664,,EN2 6EF,Enfield,ENFIELD,1
+665,,EN3 5UL,Enfield,ENFIELD,1
+666,,EN4 9DD,Barnet,BARNET,1
+667,Potters Bar,EN6 3BA,Potters Bar,Potters Bar,1
+668,,EN8 8LY,Waltham Cross,Waltham Cross,1
+669,Devon,EX1 2QL,Exeter,Exeter,1
+670,,EX14 1HA,Honiton,Honiton,1
+671,,EX20 1HQ,North Tawton,Okehampton,0
+672,,EX39 4DX,Bideford,Bideford,1
+673,,EX4 9EY,Exeter,Exeter,1
+674,,EX7 0PH,Dawlish,Dawlish,1
+675,,EX7 9LJ,Dawlish,Dawlish,1
+676,,FK10 3RF,Clackmannan,Clackmannan,1
+677,,FK2 7PA,Falkirk,Falkirk,1
+678,,FK2 8JH,Falkirk,Falkirk,1
+679,,FY1 1NH,Blackpool,Blackpool,1
+680,,FY1 3RX,Blackpool,Blackpool,1
+681,,FY4 2QL,Blackpool,Blackpool,1
+682,Blackpool,FY4 4LP,Blackpool,Blackpool,1
+683,,FY5 1AP,Thornton-Cleveleys,Thornton-Cleveleys,1
+684,,FY5 1BU,Thornton-Cleveleys,Thornton-Cleveleys,1
+685,Lancashire,FY5 1HG,Thornton-Cleveleys,Thornton-Cleveleys,1
+686,,FY6 7AA,Poulton-Le-Fylde,Poulton-le-Fylde,1
+687,Lancashire,FY8 1ZU,Lytham St. Annes,LYTHAM ST. ANNES,1
+688,Glasgow,G1 5DR,Glasgow,Glasgow,1
+689,,G13 3AY,Glasgow,Glasgow,1
+690,,G14 0EA,Glasgow,Glasgow,1
+691,Glasgow,G14 9DB,Glasgow,Glasgow,1
+692,,G22 6EN,Glasgow,Glasgow,1
+693,Glasgow,G3 8AB,Glasgow,Glasgow,1
+694,Glasgow,G32 7TW,Glasgow,Glasgow,1
+695,,G32 8AH,Glasgow,Glasgow,1
+696,,G32 9ED,Glasgow,Glasgow,1
+697,,G33 2RQ,Glasgow,Glasgow,1
+698,,G33 2RQ,Glasgow,Glasgow,1
+699,Scotland,G4 0PP,Glasgow,Glasgow,1
+700,,G42 8RX,Glasgow,Glasgow,1
+701,,G46 7RY,Glasgow,Glasgow,1
+702,,G51 1BE,Glasgow,Glasgow,1
+703,Lanarkshire,G51 1BU,Glasgow,Glasgow,1
+704,,G52 3SJ,Glasgow,Glasgow,1
+705,,G64 1NG,Glasgow,Glasgow,1
+706,,G65 0BA,Glasgow,Glasgow,1
+707,Bargeddie,G69 7SP,Glasgow,Glasgow,1
+708,Glasgow,G72 7EP,Glasgow,Glasgow,1
+709,Glasgow,G73 1AP,Glasgow,Glasgow,1
+710,Glasgow,G73 2HF,Glasgow,Glasgow,1
+711,Glasgow,G73 5AF,Glasgow,Glasgow,1
+712,,G74 2AT,Glasgow,Glasgow,1
+713,Glasgow,G74 3AE  ,Glasgow,Glasgow,1
+714,Glasgow,G77 6EG,Glasgow,Glasgow,1
+715,,G78 1AA,Glasgow,Glasgow,1
+716,,G82 1LL,Dumbarton,Dumbarton,1
+717,,GL1 1PN,Gloucester,Gloucester,1
+718,Gloucester,GL1 1QB,Gloucester,Gloucester,1
+719,,GL1 2EX,Gloucester,Gloucester,1
+720,Gloucestershire,GL1 5AN,Gloucester,Gloucester,1
+721,,GL18 1PU,Newent,Newent,1
+722,,GL2 0LY,Gloucester,Gloucester,1
+723,Cheltenham,GL50 3HF,Cheltenham,Cheltenham,1
+724,Cheltenham,GL50 3HW,Cheltenham,Cheltenham,1
+725,,GL52 2SH,Cheltenham,Cheltenham,1
+726,,GL53 7ND,Cheltenham,Cheltenham,1
+727,Hampshire,GU14 6HD,Farnborough,FARNBOROUGH,1
+728,Hampshire,GU14 7JW,Farnborough,FARNBOROUGH,1
+729,FARNBOROUGH,GU14 8PX,Farnborough,FARNBOROUGH,1
+730,Surrey,GU16 6QT,Camberley,Camberley,1
+731,Woking,GU21 4SY,Woking,Woking,1
+732,Surrey,GU21 6LJ,Woking,Woking,1
+733,Hampshire,GU35 9BU,Bordon,Bordon,1
+734,Bordon,GU35 9BU,Bordon,Bordon,1
+735,Middlesex,HA2 6ND,Harrow,HARROW,1
+736,London,HA2 8HA,Harrow,HARROW,1
+737,,HA2 8SE,Harrow,HARROW,1
+738,West Ruislip,HA4 7DW,Ruislip,Ruislip,1
+739,Middlesex,HA5 1HR,Pinner,Pinner,1
+740,Greater London Uk,HA5 2EN,Pinner,Pinner,1
+741,Middlesex,HA8 8TD,Edgware,Edgware,1
+742,,HD1 2RA,Huddersfield,Huddersfield,1
+743,,HD1 3EB,Huddersfield,Huddersfield,1
+744,West Yorkshire,HD1 3JQ,Huddersfield,Huddersfield,1
+745,,HD1 4AA,Huddersfield,Huddersfield,1
+746,,HD6 1AD,Brighouse,Brighouse,1
+747,,HD6 2DR,Brighouse,Brighouse,1
+748,,HG1 1BT,Harrogate,Harrogate,1
+749,Harrogate,HG3 2XU,Harrogate,Harrogate,1
+750,Ripon,HG4 5DF,Ripon,Ripon,1
+751,Hertfordshire,HP1 3LG,Hemel Hempstead,Hemel Hempstead,1
+752,,HP4 1HU,Berkhamsted,Berkhamsted,1
+753,Hereford,HR4 9HG,Hereford,Hereford,1
+754,North Humberside,HU10 6AL,Hull,HULL,1
+755,,HU10 6BU,Hull,HULL,1
+756,,HU10 6UA,Hull,HULL,1
+757,Hessle,HU13 0RE,Hessle,Hessle,1
+758,Hessle,HU13 9NB,Hessle,Hessle,1
+759,,HU17 9QJ,Beverley,Beverley,1
+760,,HU3 6LD,Hull,HULL,1
+761,,HU4 6EY,Hull,HULL,1
+762,,HU4 6QF,Hull,HULL,1
+763,,HU4 7RY,Hull,HULL,1
+764,,HU5 1LA,Hull,HULL,1
+765,Hull,HU5 1NR,Hull,HULL,1
+766,Hull,HU5 3QY,Hull,HULL,1
+767,,HU5 4QZ,Hull,HULL,1
+768,Hull,HU5 5JR,Hull,HULL,1
+769,,HU6 8NS,Hull,HULL,1
+770,,HU6 9PD,Hull,HULL,1
+771,,HU7 0BY,Hull,HULL,1
+772,,HU7 4NP,Hull,HULL,1
+773,,HU8 0NB,Hull,HULL,1
+774,,HU8 9AA,Hull,HULL,1
+775,,HU8 9JF,Hull,HULL,1
+776,,HU8 9PD,Hull,HULL,1
+777,Hull,HU9 1NQ,Hull,HULL,1
+778,,HU9 3AT,Hull,HULL,1
+779,Hull,HU9 3DS,Hull,HULL,1
+780,Hull,HU9 3JA,Hull,HULL,1
+781,,HU9 5UY,Hull,HULL,1
+782,,HX3 9DH,Halifax,HALIFAX,1
+783,"Halifax, Sowerby Bridge",HX6 3AN,Sowerby Bridge,Sowerby Bridge,1
+784,,HX7 6AA,Hebden Bridge,Hebden Bridge,1
+785,,IG11 8SF,Barking,Barking,1
+786,,IG2 6SY,Ilford,Ilford,1
+787,London,IG8 7HZ,Chigwell,Woodford Green,0
+788,Essex,IG8 8AF,Chigwell,Woodford Green,0
+789,Isle Of Man,IM2 4NH,Isle Of Man,Isle of Man,1
+790,,IP1 1DQ,Ipswich,Ipswich,1
+791,Suffolk,IP1 5DT,Ipswich,Ipswich,1
+792,Ipswich,IP2 0JW,Ipswich,Ipswich,1
+793,Suffolk,IP22 1BS,Diss,Diss,1
+794,Ipswich,IP3 0JJ,Ipswich,Ipswich,1
+795,,IP3 0RF,Ipswich,Ipswich,1
+796,,IP3 8QB,Ipswich,Ipswich,1
+797,,IP3 9EX,Ipswich,Ipswich,1
+798,,IP3 9NA,Ipswich,Ipswich,1
+799,,IP4 1AD,Ipswich,Ipswich,1
+800,Inverness,IV1 1QD,Inverness,Inverness,1
+801,Moray,IV30 4EG,Elgin,ELGIN,1
+802,,KA1 1PH,Kilmarnock,Kilmarnock,1
+803,East Ayrshire,KA1 3RB,Kilmarnock,Kilmarnock,1
+804,Kilmarnock,KA1 3XF,Kilmarnock,Kilmarnock,1
+805,,KA11 3BG,Irvine,IRVINE,1
+806,,KA11 4EG,Irvine,IRVINE,1
+807,,KA12 0AJ,Irvine,IRVINE,1
+808,Irvine,KA12 9JP,Irvine,IRVINE,1
+809,..,KA13 6BL,Kilwinning,Kilwinning,1
+810,Ayrshire,KA18 2AF,Cumnock,Cumnock,1
+811,,KA20 4HD,Stevenston,Stevenston,1
+812,Saltcoats,KA21 5DT,Saltcoats,Saltcoats,1
+813,Kilmarnock,KA3 2AD,Kilmarnock,Kilmarnock,1
+814,East Ayrshire,KA4 8HP,Galston,GALSTON,1
+815,,KA7 1TF,Ayr,Ayr,1
+816,Ayrshire,KA7 1TF,Ayr,Ayr,1
+817,,KA9 1JS,Prestwick,Prestwick,1
+818,,KT13 9UQ,Weybridge,Weybridge,1
+819,Surrey,KT14 6LF,West Byfleet,West Byfleet,1
+820,,KT14 7RG,West Byfleet,West Byfleet,1
+821,,KT15 1TL,Addlestone,Addlestone,1
+822,,KT16 9BE,Chertsey,Chertsey,1
+823,Surrey,KT18 7PF,Epsom,Epsom,1
+824,Epsom,KT19 0DT,Epsom,Epsom,1
+825,Surrey,KT8 0HP,West Molesey,West Molesey,1
+826,,KT8 9HB,West Molesey,West Molesey,1
+827,Fife,KY1 1JF,Kirkcaldy,Kirkcaldy,1
+828,Fife,KY1 1XF,Kirkcaldy,Kirkcaldy,1
+829,Fife,KY11 4QG,Dunfermline,Inverkeithing,0
+830,Scotland,KY12 7AN,Dunfermline,Dunfermline,1
+831,Fife,KY12 8AT,Dunfermline,Dunfermline,1
+832,,KY16 0HN,St. Andrews,ST. ANDREWS,1
+833,Fife,KY16 9QD,St. Andrews,ST. ANDREWS,1
+834,Lochgelly,KY5 0BN,Lochgelly,Lochgelly,1
+835,Fife,KY7 4UR,Glenrothes,Glenrothes,1
+836,,KY7 5AD,Glenrothes,Glenrothes,1
+837,Fife,KY8 3PE,Leven,LEVEN,1
+838,Leven,KY8 4EQ,Leven,LEVEN,1
+839,,L1 9DF,Liverpool,Liverpool,1
+840,Liverpool,L13 3DB,Liverpool,Liverpool,1
+841,,L13 9AF,Liverpool,Liverpool,1
+842,,L15 3JL,Liverpool,Liverpool,1
+843,,L15 3JT,Liverpool,Liverpool,1
+844,,L15 4LL,Liverpool,Liverpool,1
+845,Liverpool,L15 5AH,Liverpool,Liverpool,1
+846,Liverpool,L17 7BN,Liverpool,Liverpool,1
+847,Liverpool,L18 6HG,Liverpool,Liverpool,1
+848,Merseyside,L20 4NR,Liverpool,Bootle,0
+849,Liverpool,L20 7DA,Liverpool,Bootle,0
+850,,L20 9JX,Liverpool,Bootle,0
+851,,L25 1PZ,Liverpool,Liverpool,1
+852,Liverpool,L25 8SQ,Liverpool,Liverpool,1
+853,,L30 5QA,Bootle,Bootle,1
+854,Maghull,L31 2HB,Liverpool,Liverpool,1
+855,,L39 1QR,Ormskirk,Ormskirk,1
+856,,L4 3QL,Liverpool,Liverpool,1
+857,liverpool,L4 4AF,Liverpool,Liverpool,1
+858,,L4 5PE,Liverpool,Liverpool,1
+859,Burscough,L40 4BY,Ormskirk,Ormskirk,1
+860,Merseyside,L5 8TS,Liverpool,Liverpool,1
+861,Wr,L8 4PF,Liverpool,Liverpool,1
+862,,L9 0HY,Liverpool,Liverpool,1
+863,,L9 0JB,Liverpool,Liverpool,1
+864,Liverpool,L9 4RW,Liverpool,Liverpool,1
+865,Liverpool,L9 6AN,Liverpool,Liverpool,1
+866,Liverpool,L9 8AQ,Liverpool,Liverpool,1
+867,,LA1 1YN,Lancaster,LANCASTER,1
+868,,LA1 3BG,Lancaster,LANCASTER,1
+869,,LA1 4YT,Lancaster,LANCASTER,1
+870,,LA1 5TQ,Lancaster,LANCASTER,1
+871,,LA14 1LD,Barrow-In-Furness,Dalton-in-Furness,0
+872,Barrow-in-furness,LA14 1PZ,Barrow-In-Furness,Dalton-in-Furness,0
+873,,LA3 1BZ,Morecambe,Morecambe,1
+874,,LA9 5AF,Kendal,Kendal,1
+875,Leicestershire,LE1 2JU,Leicester,Leicester,1
+876,,LE1 6SL,Leicester,Leicester,1
+877,Hinckley,LE10 0LP,Hinckley,Hinckley,1
+878,,LE10 1QU,Hinckley,Hinckley,1
+879,,LE12 7NA,Loughborough,Loughborough,1
+880,Leicestershire,LE2 0PF,Leicester,Leicester,1
+881,,LE2 0QS,Leicester,Leicester,1
+882,,LE2 1QG,Leicester,Leicester,1
+883,Leicestershire,LE2 1QL,Leicester,Leicester,1
+884,Leicester,LE2 1QL,Leicester,Leicester,1
+885,Leicestershire,LE2 1XL,Leicester,Leicester,1
+886,,LE2 3AJ,Leicester,Leicester,1
+887,,LE2 3AJ,Leicester,Leicester,1
+888,Leicester,LE2 5BB,Leicester,Leicester,1
+889,Leicester,LE3 0BT,Leicester,Leicester,1
+890,Leicester,LE3 5LH,Leicester,Leicester,1
+891,Leicestershire,LE4 4GL,Leicester,Leicester,1
+892,,LE4 7AG,Leicester,Leicester,1
+893,Leicester,LE5 0QC,Leicester,Leicester,1
+894,,LE5 3TB,Leicester,Leicester,1
+895,England,LE5 4DG,Leicester,Leicester,1
+896,,LE5 4HB,Leicester,Leicester,1
+897,Leicester,LE5 4LE,Leicester,Leicester,1
+898,Leicester,LE5 5JB,Leicester,Leicester,1
+899,Leicestershire,LE65 2LP,Ashby-De-La-Zouch,Ashby-de-la-Zouch,1
+900,,LE67 4HT,Coalville,Markfield,0
+901,,LE9 7GH,Leicester,Leicester,1
+902,Wrexham,LL11 1HE,Wrexham,Wrexham,1
+903,,LL11 1LF,Wrexham,Wrexham,1
+904,Wrexham,LL11 3RY,Wrexham,Wrexham,1
+905,Wrexham,LL11 4DS,Wrexham,Wrexham,1
+906,Wrexham,LL12 7NA,Wrexham,Wrexham,1
+907,,LL12 9NP,Wrexham,Wrexham,1
+908,,LL13 7LH,Wrexham,Wrexham,1
+909,Wrexham,LL13 7RT,Wrexham,Wrexham,1
+910,,LL13 8EP,Wrexham,Wrexham,1
+911,Clwyd,LL13 8NB,Wrexham,Wrexham,1
+912,Wrexham,LL13 9HH,Wrexham,Wrexham,1
+913,Wrexham,LL13 9YL,Wrexham,Wrexham,1
+914,,LL14 3AA,Wrexham,Wrexham,1
+915,.,LL15 1AS,Ruthin,Ruthin,1
+916,,LL18 1RY,St. Asaph,Rhyl,0
+917,Clwyd,LL18 1SB,St. Asaph,Rhyl,0
+918,Clwyd,LL18 1SB,St. Asaph,Rhyl,0
+919,Colwyn bay,LL29 9PR,Colwyn Bay,Colwyn Bay,1
+920,North Wales,LL34 6BY,Penmaenmawr,Penmaenmawr,1
+921,Penmaenmawr,LL34 6BY,Penmaenmawr,Penmaenmawr,1
+922,,LL34 6BY,Penmaenmawr,Penmaenmawr,1
+923,Bangor,LL57 1NS,Bangor,BANGOR,1
+924,Bangor,LL77 7NA,Rhosneigr,Llangefni,0
+925,Lincoln,LN1 3LN,Lincoln,LINCOLN,1
+926,,LN5 7PR,Lincoln,LINCOLN,1
+927,Lincoln,LN5 8NE,Lincoln,LINCOLN,1
+928,,LN6 8HW,Lincoln,LINCOLN,1
+929,,LN7 6UP,Market Rasen,Market Rasen,1
+930,,LS1 4BB,Leeds,Leeds,1
+931,,LS1 6PG,Leeds,Leeds,1
+932,,LS10 2DF,Leeds,Leeds,1
+933,,LS10 3QJ,Leeds,Leeds,1
+934,Leeds,LS10 3QJ,Leeds,Leeds,1
+935,West Yorkshire,LS10 4EP,Leeds,Leeds,1
+936,,LS10 4NH,Leeds,Leeds,1
+937,West Yorkshire,LS11 5HN,Leeds,Leeds,1
+938,West Yorkshire,LS11 7DJ,Leeds,Leeds,1
+939,,LS11 7DJ,Leeds,Leeds,1
+940,Leeds,LS11 7LR,Leeds,Leeds,1
+941,,LS11 7LR,Leeds,Leeds,1
+942,Leeds,LS12 2RF,Leeds,Leeds,1
+943,,LS12 2RF,Leeds,Leeds,1
+944,,LS12 2RF,Leeds,Leeds,1
+945,Leeds,LS12 2RF,Leeds,Leeds,1
+946,,LS12 3EJ,Leeds,Leeds,1
+947,,LS12 4DX,Leeds,Leeds,1
+948,Leeds,LS12 4RA,Leeds,Leeds,1
+949,,LS13 3RB,Leeds,Leeds,1
+950,West Yorkshire,LS15 8DT,Leeds,Leeds,1
+951,,LS16 5EL,Leeds,Leeds,1
+952,,LS18 5NY,Leeds,Leeds,1
+953,Leeds,LS2 9HB,Leeds,Leeds,1
+954,West Yorkshire,LS2 9HB,Leeds,Leeds,1
+955,West Yorkshire,LS2 9HD,Leeds,Leeds,1
+956,,LS20 8AH,Leeds,Leeds,1
+957,Garforth,LS25 1AA,Leeds,Leeds,1
+958,,LS25 7LE,Leeds,Leeds,1
+959,Morley,LS27 8DX,Leeds,Leeds,1
+960,Morley,LS27 8EE,Leeds,Leeds,1
+961,Morley,LS27 8SF,Leeds,Leeds,1
+962,,LS27 9AA,Leeds,Leeds,1
+963,,LS27 9DF,Leeds,Leeds,1
+964,West Yorkshire,LS27 9EW,Leeds,Leeds,1
+965,Pudsey,LS28 5HL,Pudsey,Pudsey,1
+966,West Yorkshire,LS3 1DT,Leeds,Leeds,1
+967,West Yorkshire,LS3 1DT,Leeds,Leeds,1
+968,,LS3 1JX,Leeds,Leeds,1
+969,,LS3 1LY,Leeds,Leeds,1
+970,West Yorkshire,LS4 2JJ,Leeds,Leeds,1
+971,Leeds,LS4 2SX,Leeds,Leeds,1
+972,Leeds,LS5 3AQ,Leeds,Leeds,1
+973,Leeds,LS5 3LJ,Leeds,Leeds,1
+974,,LS6 1HR,Leeds,Leeds,1
+975,Yorkshire,LS6 1HY,Leeds,Leeds,1
+976,Leeds,LS6 1HY,Leeds,Leeds,1
+977,West Yorkshire,LS6 1HY,Leeds,Leeds,1
+978,West Yorkshire,LS6 2NY,Leeds,Leeds,1
+979,Leeds,LS6 2NY,Leeds,Leeds,1
+980,Leeds,LS6 2NY,Leeds,Leeds,1
+981,West Yorkshire,LS6 3AA,Leeds,Leeds,1
+982,,LS6 3LG,Leeds,Leeds,1
+983,,LS6 4HZ,Leeds,Leeds,1
+984,Leeds,LS6 4HZ,Leeds,Leeds,1
+985,,LS7 1AB,Leeds,Leeds,1
+986,Leeds,LS7 3HY,Leeds,Leeds,1
+987,West Yorkshire,LS8 3JT,Leeds,Leeds,1
+988,West Yorkshire,LS8 3QH,Leeds,Leeds,1
+989,West Yorkshire,LS9 0HJ,Leeds,Leeds,1
+990,Leeds,LS9 7SU,Leeds,Leeds,1
+991,LUTON,LU1 3EY,Luton,Luton,1
+992,Luton,LU3 2SZ,Luton,Luton,1
+993,,LU6 1AU,Dunstable,Dunstable,1
+994,,LU6 1DA,Dunstable,Dunstable,1
+995,,LU6 3RZ,Dunstable,Dunstable,1
+996,,LU6 3SF,Dunstable,Dunstable,1
+997,Manchester,M1 5GL,Manchester,Manchester,1
+998,Manchester,M11 1JG,Manchester,Manchester,1
+999,,M11 1JS,Manchester,Manchester,1
+1000,,M11 2FB,Manchester,Manchester,1
+1001,Greater Manchester,M13 0HR,Manchester,Manchester,1
+1002,Manchester,M14 4UA,Manchester,Manchester,1
+1003,Manchester,M14 5AJ,Manchester,Manchester,1
+1004,Manchester,M14 5AN,Manchester,Manchester,1
+1005,Greater Manchester,M14 5AP,Manchester,Manchester,1
+1006,,M14 6JS,Manchester,Manchester,1
+1007,Manchester,M14 6XQ,Manchester,Manchester,1
+1008,Lancashire,M14 6XQ,Manchester,Manchester,1
+1009,Manchester,M15 6NQ,Manchester,Manchester,1
+1010,,M16 0BH,Manchester,Manchester,1
+1011,,M18 7JL,Manchester,Manchester,1
+1012,,M19 1AJ,Manchester,Manchester,1
+1013,,M19 2HR,Manchester,Manchester,1
+1014,,M19 3AR,Manchester,Manchester,1
+1015,Manchester,M19 3AR,Manchester,Manchester,1
+1016,,M19 3NP,Manchester,Manchester,1
+1017,,M19 3PW,Manchester,Manchester,1
+1018,,M20 1HZ,Manchester,Manchester,1
+1019,,M20 3BW,Manchester,Manchester,1
+1020,Greater Manchester,M20 6EL,Manchester,Manchester,1
+1021,Lancashire,M20 6FJ,Manchester,Manchester,1
+1022,Chorlton,M21 9AN,Manchester,Manchester,1
+1023,Manchester,M21 9GA,Manchester,Manchester,1
+1024,Manchester,M21 9PQ,Manchester,Manchester,1
+1025,Withenshawe,M22 0LA,Manchester,Manchester,1
+1026,MNCHESTER,M22 1SG,Manchester,Manchester,1
+1027,Manchester,M22 4ET,Manchester,Manchester,1
+1028,,M22 4FY,Manchester,Manchester,1
+1029,,M22 4HH,Manchester,Manchester,1
+1030,Manchester,M22 9GQ,Manchester,Manchester,1
+1031,Manchester,M23 0BX,Manchester,Manchester,1
+1032,Manchester,M24 1AS,Manchester,Manchester,1
+1033,,M24 5QJ,Manchester,Manchester,1
+1034,Manchester,M25 9JZ,Manchester,Manchester,1
+1035,Radcliffe,M26 1AB,Manchester,Manchester,1
+1036,Swinton,M27 6AY,Manchester,Manchester,1
+1037,,M27 6AZ,Manchester,Manchester,1
+1038,Pendlebury Swinton,M27 8FH,Manchester,Manchester,1
+1039,Worsley,M28 3JE,Manchester,Manchester,1
+1040,Manchester,M28 3JE,Manchester,Manchester,1
+1041,,M30 0DF,Manchester,Manchester,1
+1042,Lancashire,M30 0WQ,Manchester,Manchester,1
+1043,,M32 0QJ,Manchester,Manchester,1
+1044,,M33 7QY,Sale,SALE,1
+1045,,M33 7QZ,Sale,SALE,1
+1046,Manchester,M34 2AF,Manchester,Manchester,1
+1047,Manchester,M34 3DH,Manchester,Manchester,1
+1048,,M34 3JU,Manchester,Manchester,1
+1049,Denton,M34 3LE,Manchester,Manchester,1
+1050,Oldham,M34 6AB,Manchester,Manchester,1
+1051,Greater Manchester,M38 9LQ,Manchester,Manchester,1
+1052,Manchester City Centre,M4 1LN,Manchester,Manchester,1
+1053,,M4 5AB,Manchester,Manchester,1
+1054,Greater Manchester,M4 5AE,Manchester,Manchester,1
+1055,,M40 0JX,Manchester,Manchester,1
+1056,Newton Heath,M40 2TP,Manchester,Manchester,1
+1057,Manchester,M40 9JS,Manchester,Manchester,1
+1058,,M40 9WF,Manchester,Manchester,1
+1059,,M43 6JE,Manchester,Manchester,1
+1060,Manchester,M43 6JH,Manchester,Manchester,1
+1061,,M45 7QX,Manchester,Manchester,1
+1062,,M45 8NE,Manchester,Manchester,1
+1063,Salford,M7 3TW,Salford,SALFORD,1
+1064,,M7 4UJ,Salford,SALFORD,1
+1065,Manchester,M8 5BN,Salford,Manchester,0
+1066,,M9 7WF,Manchester,Manchester,1
+1067,Kent,ME12 3JD,Sheerness,Sheerness,1
+1068,Kent,ME15 6LH,Maidstone,Maidstone,1
+1069,,ME15 8XW,Maidstone,Maidstone,1
+1070,Strood,ME2 2XG,Rochester,ROCHESTER,1
+1071,,ME2 4HY,Rochester,ROCHESTER,1
+1072,,ME4 4BJ,Chatham,CHATHAM,1
+1073,GILLINGHAM,ME7 2YX,Gillingham,GILLINGHAM,1
+1074,,ME8 7HX,Gillingham,GILLINGHAM,1
+1075,Sittingbourne,ME9 8UW,Sittingbourne,Sittingbourne,1
+1076,Milton Keynes,MK1 1LS,Milton Keynes,Milton Keynes,1
+1077,Milton Keynes,MK11 1DZ,Milton Keynes,Milton Keynes,1
+1078,Milton Keynes,MK12 6HP,Milton Keynes,Milton Keynes,1
+1079,,MK2 2LY,Milton Keynes,Milton Keynes,1
+1080,Milton Keynes ,MK2 2SQ,Milton Keynes,Milton Keynes,1
+1081,Milton Keynes,MK2 2UG,Milton Keynes,Milton Keynes,1
+1082,,MK40 1BY,Bedford,Bedford,1
+1083,Bedford,MK40 1DA,Bedford,Bedford,1
+1084,,MK40 1NH,Bedford,Bedford,1
+1085,,MK40 2TJ,Bedford,Bedford,1
+1086,,MK40 2TJ,Bedford,Bedford,1
+1087,Bedford,MK45 1DS,Bedford,Bedford,1
+1088,,MK6 2XJ,Milton Keynes,Milton Keynes,1
+1089,North Lanarkshire,ML6 9SG,Airdrie,AIRDRIE,1
+1090,London,N1 1DW,London,LONDON,1
+1091,London,N1 4AD,London,LONDON,1
+1092,London,N1 7QJ,London,LONDON,1
+1093,,N13 5TW,London,LONDON,1
+1094,London,N15 5DA,London,LONDON,1
+1095,LONDON,N16 7UN,London,LONDON,1
+1096,London,N19 3PA,London,LONDON,1
+1097,,N19 3PA,London,LONDON,1
+1098,London,N19 3QL,London,LONDON,1
+1099,London,N4 3PZ,London,LONDON,1
+1100,,N4 4AP,London,LONDON,1
+1101,Tyne and Wear,NE1 4EQ,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1102,,NE1 7PG,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1103,,NE10 0HQ,Gateshead,Gateshead,1
+1104,Gateshead,NE10 8RH,Gateshead,Gateshead,1
+1105,Newcastle Upon Tyne,NE12 9AY,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1106,,NE16 3AD,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1107,Northumberland,NE22 5HS,London,Bedlington,0
+1108,,NE24 1HB,Blyth,BLYTH,1
+1109,Tyne And Wear,NE24 4AG,Blyth,BLYTH,1
+1110,,NE26 2DN,Whitley Bay,Whitley Bay,1
+1111,Tyne And Wear,NE26 3RG,Whitley Bay,Whitley Bay,1
+1112,Wallsend,NE28 7RH,Wallsend,Wallsend,1
+1113,,NE29 0AG,North Shields,North Shields,1
+1114,Newcastle,NE29 7QT,North Shields,North Shields,1
+1115,South Shields,NE33 2LR,South Shields,South Shields,1
+1116,,NE38 0EU,Washington,WASHINGTON,1
+1117,Washington,NE38 8JH,Washington,WASHINGTON,1
+1118,,NE4 5JU,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1119,,NE4 9JP,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1120,NEWCASTLE UPON TYNE,NE4 9PU,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1121,,NE4 9QA,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1122,Tyne and Wear,NE4 9XB,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1123,Northumberland,NE6 2HX,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1124,Newcastle upon tyne,NE6 5HP,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1125,Tyne And Wear,NE6 5LL,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1126,,NE6 5LQ,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1127,,NE6 5NR,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1128,,NE6 5XL,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1129,Newcastle upon Tyne,NE6 5XN,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1130,Newcastle,NE6 5XN,Newcastle Upon Tyne,Newcastle upon Tyne,1
+1131,Northumberland,NE63 9UJ,Ashington,Ashington,1
+1132,,NE66 1LA,Bamburgh,Bamburgh,1
+1133,,NE8 1QL,Gateshead,Gateshead,1
+1134,,NE8 3TS,Gateshead,Gateshead,1
+1135,Gateshead,NE8 4JR,Gateshead,Gateshead,1
+1136,Tyne and Wear,NE8 4TP,Gateshead,Gateshead,1
+1137,,NE8 4XH,Gateshead,Gateshead,1
+1138,,NE9 6JA,Gateshead,Gateshead,1
+1139,Newcastle,NE9 6QL,Gateshead,Gateshead,1
+1140,,NG1 3FB,Nottingham,Nottingham,1
+1141,,NG11 8AR,Nottingham,Nottingham,1
+1142,Nottingham,NG11 9FE,Nottingham,Nottingham,1
+1143,,NG12 5JT,Nottingham,Nottingham,1
+1144,,NG16 3AJ,Nottingham,Nottingham,1
+1145,Eastwood,NG16 3GS,Nottingham,Nottingham,1
+1146,,NG16 6LH,Nottingham,Nottingham,1
+1147,,NG17 1DA,Nottingham,Sutton-in-Ashfield,0
+1148,,NG17 2NF,Nottingham,Sutton-in-Ashfield,0
+1149,Nottinghamshire,NG17 3EQ,Nottingham,Sutton-in-Ashfield,0
+1150,,NG17 7BD,Nottingham,Sutton-in-Ashfield,0
+1151,Mansfield,NG18 1BW,Mansfield,Mansfield,1
+1152,Nottinghamshire,NG18 1EB,Mansfield,Mansfield,1
+1153,,NG18 1NB,Mansfield,Mansfield,1
+1154,Nottinghamshire,NG18 1ND,Mansfield,Mansfield,1
+1155,,NG18 5BQ,Mansfield,Mansfield,1
+1156,,NG18 5QD,Mansfield,Mansfield,1
+1157,Mansfield,NG19 6TE,Mansfield,Mansfield,1
+1158,Nottinghamshire,NG19 9LN,Mansfield,Mansfield,1
+1159,,NG2 4HU,Nottingham,Nottingham,1
+1160,Nottinghamshire,NG2 4HU,Nottingham,Nottingham,1
+1161,,NG2 4QL,Nottingham,Nottingham,1
+1162,Nottingham,NG2 7LN,Nottingham,Nottingham,1
+1163,Derbyshire,NG20 8AD,Mansfield,Mansfield,1
+1164,Mansfield,NG20 8AX,Mansfield,Mansfield,1
+1165,,NG21 9AA,Mansfield,Mansfield,1
+1166,,NG22 9PL,Newark,NEWARK,1
+1167,Nottinghamshire,NG24 1AD,Newark,NEWARK,1
+1168,Nottinghamshire,NG24 1BE,Newark,NEWARK,1
+1169,,NG24 1TW,Newark,NEWARK,1
+1170,,NG24 4UT,Newark,NEWARK,1
+1171,Nottingham,NG3 2FX,Nottingham,Nottingham,1
+1172,,NG3 2PU,Nottingham,Nottingham,1
+1173,Nottingham,NG3 5GJ,Nottingham,Nottingham,1
+1174,Nottingham,NG3 5QG,Nottingham,Nottingham,1
+1175,,NG31 6BA,Grantham,Grantham,1
+1176,Lincolnshire,NG31 6LR,Grantham,Grantham,1
+1177,Lincolnshire,NG31 6LX,Grantham,Grantham,1
+1178,,NG31 6PR,Grantham,Grantham,1
+1179,Uk,NG31 7LY,Grantham,Grantham,1
+1180,Sleaford,NG34 7RG,Sleaford,Sleaford,1
+1181,Nottingham,NG4 2NN,Nottingham,Nottingham,1
+1182,Nottingham,NG4 3BP,Nottingham,Nottingham,1
+1183,,NG4 3BP,Nottingham,Nottingham,1
+1184,,NG4 3JA,Nottingham,Nottingham,1
+1185,Nottinghamshire,NG4 4HX,Nottingham,Nottingham,1
+1186,Nottingham,NG4 4HX,Nottingham,Nottingham,1
+1187,,NG5 1AD,Nottingham,Nottingham,1
+1188,Nottingham,NG5 1FD,Nottingham,Nottingham,1
+1189,,NG5 2DA,Nottingham,Nottingham,1
+1190,Nottingham,NG5 2FS,Nottingham,Nottingham,1
+1191,Nottingham,NG5 7DS,Nottingham,Nottingham,1
+1192,,NG5 7GQ,Nottingham,Nottingham,1
+1193,,NG6 8EZ,Nottingham,Nottingham,1
+1194,Nottingham,NG6 8GE,Nottingham,Nottingham,1
+1195,Nottingham,NG7 3NG,Nottingham,Nottingham,1
+1196,,NG7 3NS,Nottingham,Nottingham,1
+1197,Nottinghamshire,NG7 3NW,Nottingham,Nottingham,1
+1198,Nottingham,NG7 5EH,Nottingham,Nottingham,1
+1199,New Basford,NG7 7EU,Nottingham,Nottingham,1
+1200,,NG8 4BW,Nottingham,Nottingham,1
+1201,Nottingham,NG8 5NP,Nottingham,Nottingham,1
+1202,,NG8 5RR,Nottingham,Nottingham,1
+1203,Nottinghamshire,NG9 2DB,Nottingham,Nottingham,1
+1204,Nottingham,NG9 2LH,Nottingham,Nottingham,1
+1205,,NG9 2LN,Nottingham,Nottingham,1
+1206,Nottingham,NG9 2QS,Nottingham,Nottingham,1
+1207,Nottingham,NG9 7AS,Nottingham,Nottingham,1
+1208,Nottingham,NG9 8AB,Nottingham,Nottingham,1
+1209,Northamptonshire,NN1 1RS,Northampton,Northampton,1
+1210,Northamptonshire,NN1 4AA,Northampton,Northampton,1
+1211,Northamptonshire,NN10 0PA,Rushden,Rushden,1
+1212,England,NN14 4JH,Kettering,Kettering,1
+1213,,NN17 1AE,Corby,Corby,1
+1214,,NN17 1QE,Corby,Corby,1
+1215,,NN3 8XS,Northampton,Northampton,1
+1216,Northamptonshire,NN3 9TW,Northampton,Northampton,1
+1217,,NN4 8QF,Northampton,Northampton,1
+1218,Wellingborough,NN9 6HS,Wellingborough,Wellingborough,1
+1219,Newport,NP11 5BX,Newport,NEWPORT,1
+1220,,NP13 1QA,Abertillery,Abertillery,1
+1221,Gwent,NP19 0BJ,Newport,NEWPORT,1
+1222,NEWPORT,NP19 0FZ,Newport,NEWPORT,1
+1223,,NP19 8JH,Newport,NEWPORT,1
+1224,Newport,NP20 1GY,Newport,NEWPORT,1
+1225,,NP20 2ED,Newport,NEWPORT,1
+1226,Newport,NP20 5PA,Newport,NEWPORT,1
+1227,,NP22 5BS,Tredegar,Tredegar,1
+1228,,NP23 6BE,Ebbw Vale,Ebbw Vale,1
+1229,,NP23 4AF,Ebbw Vale,Ebbw Vale,1
+1230,,NP4 0PJ,Pontypool,Pontypool,1
+1231,,NP44 3JU,Cwmbran,Cwmbran,1
+1232,,NP44 3LR,Cwmbran,Cwmbran,1
+1233,Cwmbran,NP44 3LR,Cwmbran,Cwmbran,1
+1234,,NR14 6NA,Norwich,Norwich,1
+1235,Poringland,NR14 7RP,Norwich,Norwich,1
+1236,,NR18 0AN,Norwich,Wymondham,0
+1237,Melton,NR24 2AP,Melton Constable,Melton Constable,1
+1238,,NR30 2AL,Great Yarmouth,Great Yarmouth,1
+1239,Great Yarmouth,NR30 5EH,Great Yarmouth,Great Yarmouth,1
+1240,,NR31 6DG,Great Yarmouth,Great Yarmouth,1
+1241,Norfolk,NR31 6PJ,Great Yarmouth,Great Yarmouth,1
+1242,,NR31 6QT,Great Yarmouth,Great Yarmouth,1
+1243,Lowestoft,NR32 1BA,Lowestoft,Lowestoft,1
+1244,Lowestoft,NR32 2QB,Lowestoft,Lowestoft,1
+1245,,NR33 0AZ,Lowestoft,Lowestoft,1
+1246,Lowestoft,NR33 0QG,Lowestoft,Lowestoft,1
+1247,Norfolk,NR7 0AQ,Norwich,Norwich,1
+1248,Norwich,NR7 9TL,Norwich,Norwich,1
+1249,,NW10 0BT,London,LONDON,1
+1250,,NW10 2EU,London,LONDON,1
+1251,London,NW6 7EP,London,LONDON,1
+1252,Oldham,OL1 3NQ,Oldham,Oldham,1
+1253,,OL10 4NL,Heywood,HEYWOOD,1
+1254,,OL14 5BE,Todmorden,Todmorden,1
+1255,Rochdale,OL16 5DN,Littleborough,Rochdale,0
+1256,Lancashire,OL2 8NR,Oldham,Oldham,1
+1257,Oldham,OL4 3BN,Oldham,Oldham,1
+1258,Ashton-under-lyne,OL6 6LA,Ashton-Under-Lyne,Ashton-under-Lyne,1
+1259,,OL6 6LB,Ashton-Under-Lyne,Ashton-under-Lyne,1
+1260,,OL6 6LB,Ashton-Under-Lyne,Ashton-under-Lyne,1
+1261,,OL6 7DF,Ashton-Under-Lyne,Ashton-under-Lyne,1
+1262,Ashton Under Lynne,OL6 8EZ,Ashton-Under-Lyne,Ashton-under-Lyne,1
+1263,Greater manchester,OL6 9AU,Ashton-Under-Lyne,Ashton-under-Lyne,1
+1264,Lancashire,OL6 9HN,Ashton-Under-Lyne,Ashton-under-Lyne,1
+1265,,OL7 0LD,Ashton-Under-Lyne,Ashton-under-Lyne,1
+1266,MANCHESTER,OL8 1HE,Oldham,Oldham,1
+1267,Greater Manchester,OL8 1QN,Oldham,Oldham,1
+1268,Lancashire,OL8 1QT,Oldham,Oldham,1
+1269,Oldham,OL9 6EJ,Oldham,Oldham,1
+1270,,OL9 6JH,Oldham,Oldham,1
+1271,Oxfordshire,OX14 5JT,Abingdon,ABINGDON,1
+1272,,OX16 0LS,Banbury,Banbury,1
+1273,Oxon,OX28 5NP,Witney,Witney,1
+1274,Oxfordshire,OX4 1XF,Oxford,Oxford,1
+1275,,OX4 2NH,Oxford,Oxford,1
+1276,,PA1 2DQ,Paisley,PAISLEY,1
+1277,Renfrewshire,PA1 2JB,Paisley,PAISLEY,1
+1278,Renfrewshire,PA1 2LT,Paisley,PAISLEY,1
+1279,villageportglasgow.com,PA14 5JH,Port Glasgow,Port Glasgow,1
+1280,,PA3 2JR,Paisley,PAISLEY,1
+1281,,PA5 8DP,Johnstone,Johnstone,1
+1282,,PE1 1SQ,Peterborough,Peterborough,1
+1283,,PE1 1ST,Peterborough,Peterborough,1
+1284,,PE1 2ND,Peterborough,Peterborough,1
+1285,Peterborough,PE1 2PB,Peterborough,Peterborough,1
+1286,,PE1 2PF,Peterborough,Peterborough,1
+1287,,PE1 2RH,Peterborough,Peterborough,1
+1288,Peterborough,PE1 2SH,Peterborough,Peterborough,1
+1289,,PE1 2TD,Peterborough,Peterborough,1
+1290,,PE1 3AL,Peterborough,Peterborough,1
+1291,,PE1 4RA,Peterborough,Peterborough,1
+1292,Lincolnshire,PE11 1DQ,Spalding,SPALDING,1
+1293,Lincolnshire,PE11 2AF,Spalding,SPALDING,1
+1294,Lincolnshire,PE12 9SF,Spalding,SPALDING,1
+1295,Cambridgeshire,PE13 1AT,Wisbech,Wisbech,1
+1296,,PE13 2LF,Wisbech,Wisbech,1
+1297,Cambridgeshire,PE13 2LF,Wisbech,Wisbech,1
+1298,Cambridgeshire,PE13 3LJ,Wisbech,Wisbech,1
+1299,,PE15 9JR,March,MARCH,1
+1300,Huntingdonshire,PE19 1SU,St. Neots,ST. NEOTS,1
+1301,,PE2 8DP,Peterborough,Peterborough,1
+1302,Cambridgeshire,PE2 8GP,Peterborough,Peterborough,1
+1303,Peterborough,PE2 8HA,Peterborough,Peterborough,1
+1304,Peterborough,PE2 9HL,Peterborough,Peterborough,1
+1305,Cambrigeshire,PE2 9HL,Peterborough,Peterborough,1
+1306,,PE21 0AL,Boston,BOSTON,1
+1307,,PE21 8HY,Boston,BOSTON,1
+1308,,PE25 3EB,Skegness,Skegness,1
+1309,,PE27 5BX,St. Ives,ST. IVES,1
+1310,,PE27 5RF,St. Ives,ST. IVES,1
+1311,Cambridgeshire,PE29 6DY,Huntingdon,Huntingdon,1
+1312,,PE3 6EY,Peterborough,Peterborough,1
+1313,,PE3 6EY,Peterborough,Peterborough,1
+1314,Norfolk,PE30 2QG,King's Lynn,King's Lynn,1
+1315,Peterborough,PE31 7EY,King's Lynn,King's Lynn,1
+1316,,PE4 7DH,Peterborough,Peterborough,1
+1317,,PE6 0EF,Peterborough,Peterborough,1
+1318,Peterborough,PE6 0EN,Peterborough,Peterborough,1
+1319,,PE6 8EB,Peterborough,Peterborough,1
+1320,Peterborough,PE6 8PX,Peterborough,Peterborough,1
+1321,,PE7 1BA,Peterborough,Peterborough,1
+1322,,PE7 3JL,Peterborough,Peterborough,1
+1323,,PE7 8NJ,Peterborough,Peterborough,1
+1324,Northamptonshire,PE8 4EJ,Peterborough,Peterborough,1
+1325,Lincolnshire,PE9 1PA,Stamford,STAMFORD,1
+1326,Lincolnshire,PE9 2YN,Stamford,STAMFORD,1
+1327,Perth,PH1 2DP,Perth,PERTH,1
+1328,Perth,PH1 2PW,Perth,PERTH,1
+1329,Perth,PH1 5NX,Perth,PERTH,1
+1330,Aberfeldy,PH15 2DF,Aberfeldy,ABERFELDY,1
+1331,,PH2 8NY,Perth,PERTH,1
+1332,,PH3 1AD,Auchterarder,Auchterarder,1
+1333,Perthshire,PH7 3HA,Crieff,Crieff,1
+1334,,PL1 1ET,Plymouth,Plymouth,1
+1335,,PL1 1PG,Plymouth,Plymouth,1
+1336,,PL1 2AG,Plymouth,Plymouth,1
+1337,Plymouth,PL1 2AG,Plymouth,Plymouth,1
+1338,,PL12 6JL,Saltash,Saltash,1
+1339,Saltash,PL12 6JY,Saltash,Saltash,1
+1340,,PL17 7AD,Callington,CALLINGTON,1
+1341,Plymouth,PL2 1AQ,Plymouth,Plymouth,1
+1342,,PL2 2BX,Plymouth,Plymouth,1
+1343,,PL21 9AB,Ivybridge,Ivybridge,1
+1344,Ivybridge,PL21 9AB,Ivybridge,Ivybridge,1
+1345,Cornwall,PL25 4PJ,St. Austell,ST. AUSTELL,1
+1346,,PL3 5ER,Plymouth,Plymouth,1
+1347,,PL4 6JG,Plymouth,Plymouth,1
+1348,,PL4 9HY,Plymouth,Plymouth,1
+1349,,PL5 1ND,Plymouth,Plymouth,1
+1350,Plymouth,PL5 1RW,Plymouth,Plymouth,1
+1351,,PL5 1RX,Plymouth,Plymouth,1
+1352,,PL6 5AE,Plymouth,Plymouth,1
+1353,Hampshire,PO1 3HW,Portsmouth,Portsmouth,1
+1354,Gosport,PO12 1SE,Gosport,Lee-on-the-Solent,0
+1355,Hampshire,PO13 9UB,Gosport,Gosport,1
+1356,,PO16 9PP,Fareham,Fareham,1
+1357,,PO2 0LH,Portsmouth,Portsmouth,1
+1358,,PO2 0LN,Portsmouth,Portsmouth,1
+1359,Portsmouth,PO2 7LP,Portsmouth,Portsmouth,1
+1360,West Sussex,PO21 2NW,Bognor Regis,Bognor Regis,1
+1361,Hampshire,PO5 1LH,Southsea,Southsea,1
+1362,Hampshire,PO5 1LU,Southsea,Southsea,1
+1363,SOUTHSEA,PO5 2SG,Southsea,Southsea,1
+1364,,PO6 4PY,Portsmouth,Portsmouth,1
+1365,,PO9 1PY,Rowland's Castle,Rowland's Castle,1
+1366,Hampshire,PO9 1QF,Rowland's Castle,Rowland's Castle,1
+1367,Hampshire,PO9 1QF,Rowland's Castle,Rowland's Castle,1
+1368,Preston,PR1 1DA,Preston,PRESTON,1
+1369,Preston,PR1 2AT,Preston,PRESTON,1
+1370,,PR1 2EE,Preston,PRESTON,1
+1371,Preston,PR1 2QY,Preston,PRESTON,1
+1372,Preston,PR1 4ST,Preston,PRESTON,1
+1373,Lancashire,PR1 4ST,Preston,PRESTON,1
+1374,,PR1 4SU,Preston,PRESTON,1
+1375,Preston,PR1 9AB,Preston,PRESTON,1
+1376,,PR2 1HX,Preston,PRESTON,1
+1377,Lea,PR2 1QR,Preston,PRESTON,1
+1378,Preston,PR2 6BU,Preston,PRESTON,1
+1379,Leyland,PR25 1BX,Leyland,LEYLAND,1
+1380,,PR25 1UQ,Leyland,LEYLAND,1
+1381,Preston,PR25 1XB,Leyland,LEYLAND,1
+1382,Leyland,PR25 2GD,Leyland,LEYLAND,1
+1383,Leyland,PR25 3NE,Leyland,LEYLAND,1
+1384,,PR4 5QN,Preston,PRESTON,1
+1385,Bamber Bridge,PR5 6LA,Preston,PRESTON,1
+1386,,PR7 3DL,Chorley,Chorley,1
+1387,,PR8 1BX,Southport,Southport,1
+1388,SOUTHPORT,PR8 1DG,Southport,Southport,1
+1389,,PR8 1JX,Southport,Southport,1
+1390,Reading,RG1 7LJ,Reading,READING,1
+1391,Berkshire,RG17 8XN,Hungerford,Hungerford,1
+1392,Reading,RG19 3HX,Thatcham,Thatcham,1
+1393,Reading,RG2 0ER,Reading,READING,1
+1394,,RG21 7DA,Basingstoke,Basingstoke,1
+1395,Mardin,RG21 7NX,Basingstoke,Basingstoke,1
+1396,,RG26 5LX,Tadley,Tadley,1
+1397,Berkshire,RG30 1JA,Reading,READING,1
+1398,,RG31 6DP,Reading,READING,1
+1399,West Berkshire,RG7 3SE,Reading,READING,1
+1400,,RH10 1BU,Crawley,Crawley,1
+1401,West sussex,RH10 8DT,Crawley,Crawley,1
+1402,West Sussex,RH10 8DT,Crawley,Crawley,1
+1403,,RH4 2JR,Dorking,Dorking,1
+1404,Surrey,RH6 7AR,Gatwick,Horley,0
+1405,Romford,RM1 1EU,Romford,Romford,1
+1406,,RM1 2EP,Romford,Romford,1
+1407,,RM1 2JA,Romford,Romford,1
+1408,,RM1 2LA,Romford,Romford,1
+1409,,RM11 1QJ,Hornchurch,Hornchurch,1
+1410,London,RM12 4RS,Hornchurch,Hornchurch,1
+1411,Elmpark,RM12 4RW,Hornchurch,Hornchurch,1
+1412,,RM14 2RB,Upminster,Upminster,1
+1413,Romford,RM14 3BL,Upminster,Upminster,1
+1414,,RM17 6NX,Grays,Grays,1
+1415,East London,RM2 5EU,Romford,Romford,1
+1416,Essex,RM8 1YT,Dagenham,Dagenham,1
+1417,,RM8 2AQ,Dagenham,Dagenham,1
+1418,Dagenham,RM9 4ND,Dagenham,Dagenham,1
+1419,,RM9 4ND,Dagenham,Dagenham,1
+1420,Essex,RM9 4NU,Dagenham,Dagenham,1
+1421,,S1 2JG,Sheffield,Sheffield,1
+1422,,S11 8TN,Sheffield,Sheffield,1
+1423,Sheffield,S12 2TA,Sheffield,Sheffield,1
+1424,Sheffiled,S2 3AH,Sheffield,Sheffield,1
+1425,Sheffield,S2 4LT,Sheffield,Sheffield,1
+1426,,S3 8HS,Sheffield,Sheffield,1
+1427,,S35 2XH,Sheffield,Sheffield,1
+1428,,S36 1DH,Sheffield,Sheffield,1
+1429,,S36 1DH,Sheffield,Sheffield,1
+1430,,S36 1DH,Sheffield,Sheffield,1
+1431,,S40 2AR,Sheffield,Chesterfield,0
+1432,Chesterfield,S40 2BH,Sheffield,Chesterfield,0
+1433,Derbyshire,S40 2FL,Sheffield,Chesterfield,0
+1434,Chesterfield,S40 2PR,Sheffield,Chesterfield,0
+1435,,S41 0JB,Sheffield,Chesterfield,0
+1436,,S41 7HS,Sheffield,Chesterfield,0
+1437,,S41 7HS,Sheffield,Chesterfield,0
+1438,Derbyshire,S42 5QZ,Sheffield,Chesterfield,0
+1439,Chesterfield,S43 2AL,Sheffield,Chesterfield,0
+1440,Chesterfield,S43 3TT,Sheffield,Chesterfield,0
+1441,Derbyshire,S45 9DY,Sheffield,Chesterfield,0
+1442,,S45 9NS,Sheffield,Chesterfield,0
+1443,,S5 0QA,Sheffield,Sheffield,1
+1444,,S5 6HJ,Sheffield,Sheffield,1
+1445,,S5 8AU,Sheffield,Sheffield,1
+1446,Sheffield,S5 9LH,Sheffield,Sheffield,1
+1447,Sheffield,S6 1HG,Sheffield,Sheffield,1
+1448,South Yorkshire,S6 1LH,Sheffield,Sheffield,1
+1449,,S6 2UF,Sheffield,Sheffield,1
+1450,Sheffield,S6 3DH,Sheffield,Sheffield,1
+1451,,S6 3EB,Sheffield,Sheffield,1
+1452,,S61 1AE,Rotherham,Rotherham,1
+1453,,S62 5NB,Rotherham,Rotherham,1
+1454,,S63 0NG,Rotherham,Rotherham,1
+1455,,S64 8AU,Mexborough,Mexborough,1
+1456,South Yorkshire,S64 9QD,Mexborough,Mexborough,1
+1457,,S65 3AD,Rotherham,Rotherham,1
+1458,Rotherhm,S65 3EW,Rotherham,Rotherham,1
+1459,,S7 1FJ,Sheffield,Sheffield,1
+1460,Barnsley,S70 1AT,Barnsley,Barnsley,1
+1461,,S70 5AX,Barnsley,Barnsley,1
+1462,,S71 4DN,Barnsley,Barnsley,1
+1463,,S72 8SY,Barnsley,Barnsley,1
+1464,,S73 0AH,Barnsley,Barnsley,1
+1465,Barnsley,S73 8DR,Barnsley,Barnsley,1
+1466,Barnsley,S73 8HB,Barnsley,Barnsley,1
+1467,Hoyland,S74 0LT,Barnsley,Barnsley,1
+1468,Sheffield,S74 0LY,Barnsley,Barnsley,1
+1469,,S74 9QR,Barnsley,Barnsley,1
+1470,,S8 0SF,Sheffield,Sheffield,1
+1471,,S8 7LD,Sheffield,Sheffield,1
+1472,,S80 1EU,Worksop,Worksop,1
+1473,Nottinghamshire,S80 1LA,Worksop,Worksop,1
+1474,,S80 SB,Worksop,Worksop,1
+1475,,S9 1UY,Sheffield,Sheffield,1
+1476,,S9 3SA,Sheffield,Sheffield,1
+1477,,S9 3TJ,Sheffield,Sheffield,1
+1478,,S9 4RE,Sheffield,Sheffield,1
+1479,South Wales,SA1 2HE,Swansea,Swansea,1
+1480,,SA1 4AZ,Swansea,Swansea,1
+1481,West Glamorgan,SA11 1NA,Neath,Neath,1
+1482,,SA11 1NH,Neath,Neath,1
+1483,,SA11 1PU,Neath,Neath,1
+1484,Mid Glamorgan,SA11 1PU,Neath,Neath,1
+1485,NEATH,SA11 1UU,Neath,Neath,1
+1486,,SA11 2SU,Neath,Neath,1
+1487,,SA13 1LN,Port Talbot,Port Talbot,1
+1488,,SA14 8LA,Llanelli,Llanelli,1
+1489,Carmarthenshire,SA14 8LR,Llanelli,Llanelli,1
+1490,South Wales,SA15 1DJ,Llanelli,Llanelli,1
+1491,Carmarthen,SA17 4UU,Ferryside,Kidwelly,0
+1492,Wales,SA18 1AE,Ammanford,Ammanford,1
+1493,West Glamorgan,SA2 0HB,Swansea,Swansea,1
+1494,West Glamorgan,SA2 0HB,Swansea,Swansea,1
+1495,,SA2 0HB,Swansea,Swansea,1
+1496,Swansea,SA4 4BP,Swansea,Swansea,1
+1497,,SA45 9QJ,New Quay,New Quay,1
+1498,,SA5 7JY,Swansea,Swansea,1
+1499,,SA5 9AH,Swansea,Swansea,1
+1500,Swansea,SA5 9LE,Swansea,Swansea,1
+1501,,SA6 5LW,Swansea,Swansea,1
+1502,,SA6 6HT,Swansea,Swansea,1
+1503,,SA70 7HZ,Tenby,Tenby,1
+1504,,SA8 4ED,Swansea,Swansea,1
+1505,Ystalyfera,SA9 2JA,Swansea,Swansea,1
+1506,,SE10 8NX,London,LONDON,1
+1507,London,SE10 9PJ,London,LONDON,1
+1508,,SE12 0DU,London,LONDON,1
+1509,London,SE15 3LS,London,LONDON,1
+1510,London,SE16 4XF,London,LONDON,1
+1511,London,SE16 5SW,London,LONDON,1
+1512,London,SE19 3NG,London,LONDON,1
+1513,,SE23 1DY,London,LONDON,1
+1514,Foresthill,SE23 3HT,London,LONDON,1
+1515,,SE25 4PJ,London,LONDON,1
+1516,,SE25 4UN,London,LONDON,1
+1517,London ,SE25 5EY,London,LONDON,1
+1518,London,SE25 6HA,London,LONDON,1
+1519,London,SE3 8AR,London,LONDON,1
+1520,,SE6 2JT,London,LONDON,1
+1521,London,SE6 4PX,London,LONDON,1
+1522,London,SE8 5DB,London,LONDON,1
+1523,,SE9 1BW,London,LONDON,1
+1524,,SG12 8AA,Ware,WARE,1
+1525,,SG19 1DN,Sandy,SANDY,1
+1526,Hertfordshire,SG2 8ET,Stevenage,Stevenage,1
+1527,,SG2 9XH,Stevenage,Stevenage,1
+1528,Hertfordshire,SG6 3BJ,Hitchin,LETCHWORTH GARDEN CITY,0
+1529,,SG7 6NG,Baldock,Baldock,1
+1530,Cheshire,SK10 2HB,Macclesfield,Macclesfield,1
+1531,Macclesfield,SK11 6DY,Macclesfield,Macclesfield,1
+1532,Cheshire,SK11 6JL,Macclesfield,Macclesfield,1
+1533,,SK11 6JZ,Macclesfield,Macclesfield,1
+1534,Cheshire,SK11 6NR,Macclesfield,Macclesfield,1
+1535,Cheshire,SK11 6NR,Macclesfield,Macclesfield,1
+1536,Cheshire,SK11 6QS,Macclesfield,Macclesfield,1
+1537,,SK11 7NA,Macclesfield,Macclesfield,1
+1538,Mancheter,SK14 1EX,Hyde,HYDE,1
+1539,Stalybridge,SK15 2AA,Stalybridge,Stalybridge,1
+1540,Lancashire,SK15 2AA,Stalybridge,Stalybridge,1
+1541,,SK15 2JL,Stalybridge,Stalybridge,1
+1542,Stalybridge,SK15 2QS,Stalybridge,Stalybridge,1
+1543,Buxton,SK17 6EB,Buxton,Buxton,1
+1544,,SK17 6EU,Buxton,Buxton,1
+1545,Stockport,SK2 7NR,Stockport,Stockport,1
+1546,Derbyshire,SK22 4AH,High Peak,HIGH PEAK,1
+1547,Manchester,SK3 0DT,Stockport,Stockport,1
+1548,Stock Port,SK3 9AL,Stockport,Stockport,1
+1549,Manchester,SK4 3BS,Stockport,Stockport,1
+1550,,SK5 7AE,Stockport,Stockport,1
+1551,,SK6 6AF,Stockport,Stockport,1
+1552,,SK7 4HJ,Stockport,Stockport,1
+1553,,SK7 4PS,Stockport,Stockport,1
+1554,Stockport,SK8 4RF,Cheadle,CHEADLE,1
+1555,Wilmslow,SK9 1DR,Wilmslow,Wilmslow,1
+1556,Berkshire,SL1 2DA,Slough,Slough,1
+1557,Barkshire,SL2 1JD,Slough,Slough,1
+1558,Berkshire,SL2 5AH,Slough,Slough,1
+1559,Ascot,SL5 0EP,Ascot,ASCOT,1
+1560,Maidenhead,SL6 3NR,Maidenhead,Maidenhead,1
+1561,Berskhire,SL6 7BE,Maidenhead,Maidenhead,1
+1562,Cookham,SL6 9BR,Maidenhead,Maidenhead,1
+1563,,SM1 1QE,Sutton,SUTTON,1
+1564,,SM3 8JW,Sutton,SUTTON,1
+1565,London,SM4 5LJ,Morden,Morden,1
+1566,Surrey,SM4 5PR,Morden,Morden,1
+1567,Swindon,SN1 1BT,Swindon,Swindon,1
+1568,Wiltshire,SN13 0HB,Corsham,Corsham,1
+1569,Wiltshire,SN15 1QA,Corsham,Chippenham,0
+1570,Faringdon,SN7 7HP,Faringdon,Faringdon,1
+1571,,SO14 0JR,Southampton,Southampton,1
+1572,Hampshire,SO14 1NX,Southampton,Southampton,1
+1573,Southampton ,SO14 3BL,Southampton,Southampton,1
+1574,Southampton,SO14 3DP,Southampton,Southampton,1
+1575,Hampshire,SO14 7DW,Southampton,Southampton,1
+1576,Southampton,SO15 2BY,Southampton,Southampton,1
+1577,Southampton,SO15 3JD,Southampton,Southampton,1
+1578,,SO16 3EG,Southampton,Southampton,1
+1579,Hampshire,SO16 5GD,Southampton,Southampton,1
+1580,Hampshire,SO16 5GD,Southampton,Southampton,1
+1581,Hampshire,SO16 6AS,Southampton,Southampton,1
+1582,,SO19 8FU,Southampton,Southampton,1
+1583,Southampton,SO40 3AH,Southampton,LYNDHURST,0
+1584,,SO40 9HN,Southampton,LYNDHURST,0
+1585,Easleigh,SO53 2FU,Eastleigh,Eastleigh,1
+1586,,SP2 7DT,Salisbury,Salisbury,1
+1587,Sunderland,SR1 3NX,Sunderland,SUNDERLAND,1
+1588,Sunderland,SR6 0HQ,Sunderland,SUNDERLAND,1
+1589,Peterlee,SR8 1BS,Peterlee,Peterlee,1
+1590,,SR8 5DE,Peterlee,Peterlee,1
+1591,Peterlee,SR8 5DY,Peterlee,Peterlee,1
+1592,Southend-on-sea,SS1 2QA,Southend-On-Sea,Southend-on-Sea,1
+1593,Essex,SS14 3DU,Basildon,Basildon,1
+1594,Basildon,SS15 6EB,Basildon,Basildon,1
+1595,Essex,SS17 0AH,Stanford-Le-Hope,Stanford-le-Hope,1
+1596,Stanford-Le-Hope,SS17 0HQ,Stanford-Le-Hope,Stanford-le-Hope,1
+1597,Essex,SS6 7EF,Rayleigh,RAYLEIGH,1
+1598,South Benfleet,SS7 5HA,Benfleet,BENFLEET,1
+1599,Stoke On Trent,ST1 1EG,Stoke-On-Trent,Stoke-on-Trent,1
+1600,,ST1 1JD,Stoke-On-Trent,Stoke-on-Trent,1
+1601,Stoke on trent,ST1 2BQ,Stoke-On-Trent,Stoke-on-Trent,1
+1602,,ST1 3JE,Stoke-On-Trent,Stoke-on-Trent,1
+1603,Hanley,ST1 3SH,Stoke-On-Trent,Stoke-on-Trent,1
+1604,,ST1 4EJ,Stoke-On-Trent,Stoke-on-Trent,1
+1605,Hanley,ST1 4EU,Stoke-On-Trent,Stoke-on-Trent,1
+1606,Stoke-on-Trent,ST1 4LU,Stoke-On-Trent,Stoke-on-Trent,1
+1607,,ST1 4LU,Stoke-On-Trent,Stoke-on-Trent,1
+1608,Staffordshire,ST1 4LU,Stoke-On-Trent,Stoke-on-Trent,1
+1609,Stoke On Trent,ST1 5LQ,Stoke-On-Trent,Stoke-on-Trent,1
+1610,Staffordshire,ST1 5NA,Stoke-On-Trent,Stoke-on-Trent,1
+1611,Stoke on Trent,ST1 5RW,Stoke-On-Trent,Stoke-on-Trent,1
+1612,Staffordshire,ST10 1AA,Stoke-On-Trent,Stoke-on-Trent,1
+1613,Staffordshire,ST10 1BJ,Stoke-On-Trent,Stoke-on-Trent,1
+1614,Staffordshire,ST10 1DY,Stoke-On-Trent,Stoke-on-Trent,1
+1615,Draycot,ST11 9NR,Stoke-On-Trent,Stoke-on-Trent,1
+1616,Staffordshire,ST13 5AS,Leek,LEEK,1
+1617,Staffordshire,ST13 5DZ,Leek,LEEK,1
+1618,,ST13 5HJ,Leek,LEEK,1
+1619,Staffordshire,ST13 5JH,Leek,LEEK,1
+1620,Leek,ST13 6DH,Leek,LEEK,1
+1621,Staffordshire,ST14 8HP,Uttoxeter,Uttoxeter,1
+1622,Stoke on trent,ST15 0JN,Stone,STONE,1
+1623,Stone,ST15 8NA,Stone,STONE,1
+1624,Staffordshire,ST16 2HL,Stafford,Stafford,1
+1625,,ST16 2PT,Stafford,Stafford,1
+1626,Staffordshire,ST16 3BS,Stafford,Stafford,1
+1627,,ST17 4BJ,Stafford,Stafford,1
+1628,Staffordshire,ST17 4JX,Stafford,Stafford,1
+1629,Stoke on Trent,ST2 9HJ,Stoke-On-Trent,Stoke-on-Trent,1
+1630,,ST3 1EW,Stoke-On-Trent,Stoke-on-Trent,1
+1631,Stoke on Trent,ST3 1EW,Stoke-On-Trent,Stoke-on-Trent,1
+1632,Stoke,ST3 3AY,Stoke-On-Trent,Stoke-on-Trent,1
+1633,Stoke On Trent,ST3 4QE,Stoke-On-Trent,Stoke-on-Trent,1
+1634,Stoke on Trent,ST3 5EB,Stoke-On-Trent,Stoke-on-Trent,1
+1635,Staffordshire,ST3 5LQ,Stoke-On-Trent,Stoke-on-Trent,1
+1636,Staffordshire,ST3 5LQ,Stoke-On-Trent,Stoke-on-Trent,1
+1637,Stoke-on-Trent,ST3 6AB,Stoke-On-Trent,Stoke-on-Trent,1
+1638,Stoke-on-Trent,ST3 6AD,Stoke-On-Trent,Stoke-on-Trent,1
+1639,Stoke On Trent,ST3 7AE,Stoke-On-Trent,Stoke-on-Trent,1
+1640,Stoke On Trent,ST4 1AT,Stoke-On-Trent,Stoke-on-Trent,1
+1641,Stoke,ST4 1AW,Stoke-On-Trent,Stoke-on-Trent,1
+1642,Staffordshire,ST4 1BL,Stoke-On-Trent,Stoke-on-Trent,1
+1643,Stoke-on-trent,ST4 1BU,Stoke-On-Trent,Stoke-on-Trent,1
+1644,Stoke on Trent,ST4 1BU,Stoke-On-Trent,Stoke-on-Trent,1
+1645,Shelton,ST4 2BB,Stoke-On-Trent,Stoke-on-Trent,1
+1646,Stoke on Trent,ST4 2JX,Stoke-On-Trent,Stoke-on-Trent,1
+1647,Stoke-on-trent,ST4 2JX,Stoke-On-Trent,Stoke-on-Trent,1
+1648,Stoke-on-Trent,ST4 2JX,Stoke-On-Trent,Stoke-on-Trent,1
+1649,Stoke on Trent,ST4 2QA,Stoke-On-Trent,Stoke-on-Trent,1
+1650,Stoke on Trent,ST4 3EE,Stoke-On-Trent,Stoke-on-Trent,1
+1651,Stoke-on-Trent,ST4 3NA,Stoke-On-Trent,Stoke-on-Trent,1
+1652,Stoke on trent,ST4 3NA,Stoke-On-Trent,Stoke-on-Trent,1
+1653,Stoke,ST4 4RU,Stoke-On-Trent,Stoke-on-Trent,1
+1654,Staffordshire,ST4 5AG,Stoke-On-Trent,Stoke-on-Trent,1
+1655,Stoke on Trent,ST4 5NX,Stoke-On-Trent,Stoke-on-Trent,1
+1656,Stoke On Trent,ST4 5RW,Stoke-On-Trent,Stoke-on-Trent,1
+1657,Staffordshire,ST5 0BE,Newcastle,NEWCASTLE,1
+1658,Staffordshire,ST5 0EN,Newcastle,NEWCASTLE,1
+1659,Staffordshire,ST5 0HE,Newcastle,NEWCASTLE,1
+1660,Stoke-On-Trent,ST5 1JU,Newcastle,NEWCASTLE,1
+1661,Staffordshire,ST5 1JU,Newcastle,NEWCASTLE,1
+1662,Newcastle,ST5 1JX,Newcastle,NEWCASTLE,1
+1663,Newcastle,ST5 1JX,Newcastle,NEWCASTLE,1
+1664,Newcastle under Lyme,ST5 1QG,Newcastle,NEWCASTLE,1
+1665,,ST5 1TT,Newcastle,NEWCASTLE,1
+1666,Staffordshire,ST5 2TW,Newcastle,NEWCASTLE,1
+1667,Newcastle,ST5 2TW - TEMP SITE,Newcastle,NEWCASTLE,1
+1668,Newcastle-Under-Lyme,ST5 3DA,Newcastle,NEWCASTLE,1
+1669,Newcastle-Under-Lyme,ST5 3DA,Newcastle,NEWCASTLE,1
+1670,Staffordshire,ST5 3NE,Newcastle,NEWCASTLE,1
+1671,Staffordshire,ST5 7EA,Newcastle,NEWCASTLE,1
+1672,Stoke On Trent,ST5 8HX,Newcastle,NEWCASTLE,1
+1673,Newcastle under Lyme,ST5 9HD,Newcastle,NEWCASTLE,1
+1674,Staffordshire,ST5 9HW,Newcastle,NEWCASTLE,1
+1675,Staffordshire,ST6 1DT,Stoke-On-Trent,Stoke-on-Trent,1
+1676,Stoke-On-Trent,ST6 1DT,Stoke-On-Trent,Stoke-on-Trent,1
+1677,-,ST6 1DT,Stoke-On-Trent,Stoke-on-Trent,1
+1678,Stoke-on-Trent,ST6 1DT,Stoke-On-Trent,Stoke-on-Trent,1
+1679,Stoke On Trent,ST6 1DT,Stoke-On-Trent,Stoke-on-Trent,1
+1680,Tilehurst,ST6 1DT,Stoke-On-Trent,Stoke-on-Trent,1
+1681,Burslem,ST6 1DT,Stoke-On-Trent,Stoke-on-Trent,1
+1682,Stoke,ST6 1DT,Stoke-On-Trent,Stoke-on-Trent,1
+1683,Stoke,ST6 1DT,Stoke-On-Trent,Stoke-on-Trent,1
+1684,Stoke on Trent,ST6 1NT,Stoke-On-Trent,Stoke-on-Trent,1
+1685,Stoke-on-Trent,ST6 1NT,Stoke-On-Trent,Stoke-on-Trent,1
+1686,STOKE,ST6 1NT,Stoke-On-Trent,Stoke-on-Trent,1
+1687,Stoke-on-trent,ST6 3ES,Stoke-On-Trent,Stoke-on-Trent,1
+1688,Stoke-on-Trent,ST6 3ES,Stoke-On-Trent,Stoke-on-Trent,1
+1689,Stoke-on-trent,ST6 3EX,Stoke-On-Trent,Stoke-on-Trent,1
+1690,Staffordshire,ST6 3EX,Stoke-On-Trent,Stoke-on-Trent,1
+1691,,ST6 3HB,Stoke-On-Trent,Stoke-on-Trent,1
+1692,Stoke On Trent,ST6 3HL,Stoke-On-Trent,Stoke-on-Trent,1
+1693,Stoke-on-Trent,ST6 3HL,Stoke-On-Trent,Stoke-on-Trent,1
+1694,Stoke-on-Trent,ST6 3HR,Stoke-On-Trent,Stoke-on-Trent,1
+1695,Stoke On Trent,ST6 3QH,Stoke-On-Trent,Stoke-on-Trent,1
+1696,Staffordshire,ST6 3QJ,Stoke-On-Trent,Stoke-on-Trent,1
+1697,Stoke-on-Trent,ST6 3QJ,Stoke-On-Trent,Stoke-on-Trent,1
+1698,Stoke on trent,ST6 5AA,Stoke-On-Trent,Stoke-on-Trent,1
+1699,Stoke on Trent,ST6 5AN,Stoke-On-Trent,Stoke-on-Trent,1
+1700,Stoke on Trent,ST6 5AN,Stoke-On-Trent,Stoke-on-Trent,1
+1701,Stoke On Trent,ST6 5df,Stoke-On-Trent,Stoke-on-Trent,1
+1702,Stoke On Trent,ST6 5DF,Stoke-On-Trent,Stoke-on-Trent,1
+1703,Stoke-on-Trent,ST6 5EP,Stoke-On-Trent,Stoke-on-Trent,1
+1704,Staffordshire,ST6 5QH,Stoke-On-Trent,Stoke-on-Trent,1
+1705,Stoke-On-Trent,ST6 5TJ,Stoke-On-Trent,Stoke-on-Trent,1
+1706,Stoke on Trent,ST6 5TJ,Stoke-On-Trent,Stoke-on-Trent,1
+1707,,ST6 5TY,Stoke-On-Trent,Stoke-on-Trent,1
+1708, Stoke-on-trent,ST6 6LF,Stoke-On-Trent,Stoke-on-Trent,1
+1709,Staffs,ST6 8BQ,Stoke-On-Trent,Stoke-on-Trent,1
+1710,,ST65A,Wrong postcode!,Wrong Input,0
+1711,Stoke on Trent,ST7 1EA,Stoke-On-Trent,Stoke-on-Trent,1
+1712,Stafford,ST7 4AB,Stoke-On-Trent,Stoke-on-Trent,1
+1713,Stoke-on-Trent,ST7 8HQ,Stoke-On-Trent,Stoke-on-Trent,1
+1714,Stoke on Trent,ST9 0DU,Stoke-On-Trent,Stoke-on-Trent,1
+1715,London,SW11 1JA,London,LONDON,1
+1716,,SW14 7DE,London,LONDON,1
+1717,,SW14 8QS,London,LONDON,1
+1718,,SW15 1HJ,London,LONDON,1
+1719,,SW15 4HJ,London,LONDON,1
+1720,LONDON,SW15 5QJ,London,LONDON,1
+1721,London,SW16 3PH,London,LONDON,1
+1722,,SW16 5NL,London,LONDON,1
+1723,,SW16 6NR,London,LONDON,1
+1724,London,SW17 9PP,London,LONDON,1
+1725,London,SW19 1BD,London,LONDON,1
+1726,Wimbledon,SW19 1BD,London,LONDON,1
+1727,,SW2 4UB,London,LONDON,1
+1728,,SW2 4UB,London,LONDON,1
+1729,Shrewsbury,SY1 2EH,Shrewsbury,Shrewsbury,1
+1730,,SY1 2EJ,Shrewsbury,Shrewsbury,1
+1731,Shrewsbury,SY1 4EL,Shrewsbury,Shrewsbury,1
+1732,Oswestry,SY11 1QA,Oswestry,Oswestry,1
+1733,,SY11 1QW,Oswestry,Oswestry,1
+1734,,SY11 2NN,Oswestry,Oswestry,1
+1735,Gobowen,SY11 3JP,Oswestry,Oswestry,1
+1736,,SY13 1BB,Whitchurch,WHITCHURCH,1
+1737,,SY16 1AA,Newtown,NEWTOWN,1
+1738,,SY23 2LN,Llanon,Llanrhystud,0
+1739,Wales,SY25 6HX,Tregaron,Ystrad Meurig,0
+1740,,SY4 4HP,Shrewsbury,Shrewsbury,1
+1741,Wem,SY4 5DR,Shrewsbury,Shrewsbury,1
+1742,,TA1 3PR,Taunton,Taunton,1
+1743,Somerset,TA6 3BQ,Bridgwater,Bridgwater,1
+1744,Somerset,TA6 5HS,Bridgwater,Bridgwater,1
+1745,Telford,TF1 5AQ,Telford,Telford,1
+1746,Telford,TF2 6EL,Telford,Telford,1
+1747,Shropshire,TF2 6EL,Telford,Telford,1
+1748,Shropshire,TF2 6PY,Telford,Telford,1
+1749,Shropshire,TF2 6PY,Telford,Telford,1
+1750,Shropshire,TF2 6PY,Telford,Telford,1
+1751,Shropshire,TF2 7DP,Telford,Telford,1
+1752,Shropshire,TF3 2EW,Telford,Telford,1
+1753,Market Drayton,TF9 3QD,Market Drayton,Market Drayton,1
+1754,,TN23 1QN,Ashford,ASHFORD,1
+1755,Hastings,TN34 1SJ,Hastings,Hastings,1
+1756,,TN37 6RE,ST. LEONARDS-ON-SEA,ST. LEONARDS-ON-SEA,1
+1757,East Sussex,TN39 4SJ,Bexhill-on-Sea,Bexhill-on-Sea,1
+1758,Kent,TN8 5AR,EDENBRIDGE,EDENBRIDGE,1
+1759,,TQ1 1EB,Torquay,Torquay,1
+1760,,TQ12 2AU,Newton Abbot,Newton Abbot,1
+1761,Newton Abbot,TQ12 2EU,Newton Abbot,Newton Abbot,1
+1762,,TQ14 8AU,Teignmouth,Teignmouth,1
+1763,,TQ3 3BW,Paignton,Paignton,1
+1764,,TQ3 3HF,Paignton,Paignton,1
+1765,,TQ6 9RT,DARTMOUTH,DARTMOUTH,1
+1766,Cornwall,TR1 2AA,Truro,Truro,1
+1767,Cornwall,TR15 2RZ,Redruth,Redruth,1
+1768,Redruth,TR15 3PE,Redruth,Redruth,1
+1769,Penzance,TR18 2HX,Penzance,Penzance,1
+1770,,TS1 3JD,Middlesbrough,Middlesbrough,1
+1771,,TS1 3RA,Middlesbrough,Middlesbrough,1
+1772,,TS1 4AS,Middlesbrough,Middlesbrough,1
+1773,Cleveland,TS1 4BE,Middlesbrough,Middlesbrough,1
+1774,,TS10 1RJ,Redcar,Redcar,1
+1775,,TS10 3BW,Redcar,Redcar,1
+1776,Cleveland,TS10 3DQ,Redcar,Redcar,1
+1777,Cleveland,TS10 3JG,Redcar,Redcar,1
+1778,Redcar,TS10 5JP,Redcar,Redcar,1
+1779,Redcar,TS10 5JZ,Redcar,Redcar,1
+1780,,TS11 7NA,Redcar,Redcar,1
+1781,Easington,TS13 4NL,Saltburn-by-the-Sea,Saltburn-by-the-Sea,1
+1782,,TS14 6BN,Guisborough,Guisborough,1
+1783,Guisborough,TS14 6HF,Guisborough,Guisborough,1
+1784,Stockton-on-Tees,TS15 9XN,Yarm,Yarm,1
+1785,Stockton-on-Tees,TS16 0EH,Stockton-on-Tees,Stockton-on-Tees,1
+1786,Stockton-on-Tees,TS17 0QB,Stockton-on-Tees,Stockton-on-Tees,1
+1787,Cleveland,TS17 8AB,Stockton-on-Tees,Stockton-on-Tees,1
+1788,Stockton-on-Tees,TS18 1DB,Stockton-on-Tees,Stockton-on-Tees,1
+1789,,TS18 2BS,Stockton-on-Tees,Stockton-on-Tees,1
+1790,,TS19 0DE,Stockton-on-Tees,Stockton-on-Tees,1
+1791,Stockton-on-Tees,TS19 8PD,Stockton-on-Tees,Stockton-on-Tees,1
+1792,Cleveland,TS20 1AL,Stockton-on-Tees,Stockton-on-Tees,1
+1793,Cleveland,TS20 1RF,Stockton-on-Tees,Stockton-on-Tees,1
+1794,Stockton-on-Tees,TS20 2BX,Stockton-on-Tees,Stockton-on-Tees,1
+1795,Stockton-on-Tees,TS20 2DR,Stockton-on-Tees,Stockton-on-Tees,1
+1796,County Durham,TS21 2AJ,Stockton-on-Tees,Stockton-on-Tees,1
+1797,Billingham,TS23 1AB,Billingham,Billingham,1
+1798,Billingham,TS23 1AE,Billingham,Billingham,1
+1799,,TS23 1AF,Billingham,Billingham,1
+1800,Hartlepool,TS24 7PW,Hartlepool,Hartlepool,1
+1801,,TS24 8QG,Hartlepool,Hartlepool,1
+1802,Hartlepool,TS25 1SL,Hartlepool,Hartlepool,1
+1803,Hartlepool,TS26 8PQ,Hartlepool,Hartlepool,1
+1804,Teesside,TS26 8PU,Hartlepool,Hartlepool,1
+1805,,TS3 0RY,Middlesbrough,Middlesbrough,1
+1806,,TS3 6EP,Middlesbrough,Middlesbrough,1
+1807,Middlesborough,TS3 6NG,Middlesbrough,Middlesbrough,1
+1808,North Yorkshire,TS3 6NL,Middlesbrough,Middlesbrough,1
+1809,Cleveland,TS3 7NW,Middlesbrough,Middlesbrough,1
+1810,Middlesbrough,TS3 9NB,Middlesbrough,Middlesbrough,1
+1811,Cleveland,TS4 3AA,Middlesbrough,Middlesbrough,1
+1812,,TS5 6AB,Middlesbrough,Middlesbrough,1
+1813,,TS5 6DY,Middlesbrough,Middlesbrough,1
+1814,Middlesbrough,TS5 6DZ,Middlesbrough,Middlesbrough,1
+1815,Middlesbrough,TS5 6HF,Middlesbrough,Middlesbrough,1
+1816,Middlesborough,TS5 6HF,Middlesbrough,Middlesbrough,1
+1817,Middlesbrough,TS5 6HF,Middlesbrough,Middlesbrough,1
+1818,Middlesbrough,TS5 6PN,Middlesbrough,Middlesbrough,1
+1819,,TS5 6QL,Middlesbrough,Middlesbrough,1
+1820,,TS5 6QN,Middlesbrough,Middlesbrough,1
+1821,Eston,TS6 8BL,Middlesbrough,Middlesbrough,1
+1822,Middlesbrough,TS6 9JF,Middlesbrough,Middlesbrough,1
+1823,Middlesbrough,TS6 9JF,Middlesbrough,Middlesbrough,1
+1824,Middlesbrough,TS8 0TW,Middlesbrough,Middlesbrough,1
+1825,London,TW1 2DY,Twickenham,Twickenham,1
+1826,Greater London,TW1 3SG,Twickenham,Twickenham,1
+1827,Greater London,TW1 3SG,Twickenham,Twickenham,1
+1828,Greater London,TW1 4BW,Twickenham,Twickenham,1
+1829,Teddington,TW11 9JP,Teddington,Teddington,1
+1830,Englefield Green,TW20 0BY,Egham,Egham,1
+1831,Surrey,TW20 0BY,Egham,Egham,1
+1832,,TW3 1NP,Hounslow,Hounslow,1
+1833,London,TW3 1RS,Hounslow,Hounslow,1
+1834,Middlesex,TW4 5NP,Hounslow,Hounslow,1
+1835,London,UB10 0LX,Uxbridge,Uxbridge,1
+1836,Middlesex,UB10 9NA,Uxbridge,Uxbridge,1
+1837,Middlesex,UB7 8AG,West Drayton,West Drayton,1
+1838,,W12 9BL,LONDON,LONDON,1
+1839,Greater London,W3 8HR,LONDON,LONDON,1
+1840,London,W4 3JY,LONDON,LONDON,1
+1841,,W5 4QJ,LONDON,LONDON,1
+1842,London,W5 4QL,LONDON,LONDON,1
+1843,London,W5 4QL,LONDON,LONDON,1
+1844,Ealing,W5 4RP,LONDON,LONDON,1
+1845,Greater London,W6 0SP,LONDON,LONDON,1
+1846,London,W7 1HA,LONDON,LONDON,1
+1847,London,W7 2DG,LONDON,LONDON,1
+1848,Warrington,WA1 2NZ,Warrington,Warrington,1
+1849,St Helens,WA10 1PY,ST. HELENS,ST. HELENS,1
+1850,,WA10 2JG,ST. HELENS,ST. HELENS,1
+1851,Mersyside,WA10 4PZ,ST. HELENS,ST. HELENS,1
+1852,,WA10 5JW,ST. HELENS,ST. HELENS,1
+1853,Rainford,WA11 8HR,ST. HELENS,ST. HELENS,1
+1854,,WA12 8PQ,Newton-le-Willows,Newton-le-Willows,1
+1855,,WA12 8PQ,Newton-le-Willows,Newton-le-Willows,1
+1856,,WA12 9AQ,Newton-le-Willows,Newton-le-Willows,1
+1857,Newton-le-willows,WA12 9PS,Newton-le-Willows,Newton-le-Willows,1
+1858,Latchford,WA4 1AU,Warrington,Warrington,1
+1859,Liverpool,WA4 1LU,Warrington,Warrington,1
+1860,,WA4 2EZ,Warrington,Warrington,1
+1861,,WA5 1UB,Warrington,Warrington,1
+1862,Cheshire,WA6 0AD,Frodsham,Frodsham,1
+1863,,WA6 7AF,Frodsham,Frodsham,1
+1864,Runcorn,WA7 1AW,Runcorn,Runcorn,1
+1865,Runcorn,WA7 1JG,Runcorn,Runcorn,1
+1866,WArrington,WA8 0AX,Widnes,Widnes,1
+1867,Cheshire,WA8 5AJ,Widnes,Widnes,1
+1868,Widnes,WA8 6LB,Widnes,Widnes,1
+1869,WIDNES,WA8 7RP,Widnes,Widnes,1
+1870,,WA9 1DA,ST. HELENS,ST. HELENS,1
+1871,St helens,WA9 3JN,ST. HELENS,ST. HELENS,1
+1872,,WA9 5PE,ST. HELENS,ST. HELENS,1
+1873,London,WC1X 8TZ,LONDON,LONDON,1
+1874,,WD17 1RD,Watford,Watford,1
+1875,Hertfordshire,WD6 1DR,Borehamwood,Borehamwood,1
+1876,,WF1 1XQ,Wakefield,Wakefield,1
+1877,West Yorkshire,WF1 3AY,Wakefield,Wakefield,1
+1878,,WF10 1AF,Castleford,Castleford,1
+1879,,WF10 1EE,Castleford,Castleford,1
+1880,Castleford,WF10 1EN,Castleford,Castleford,1
+1881,Yorkshire,WF10 1EW,Castleford,Castleford,1
+1882,,WF10 1LN,Castleford,Castleford,1
+1883,Weat Yorkshire,WF10 5AR,Castleford,Castleford,1
+1884,,WF10 5BW,Castleford,Castleford,1
+1885,Yorkshire,WF10 5BW,Castleford,Castleford,1
+1886,,WF2 7JE,Wakefield,Wakefield,1
+1887,,WF2 9BS,Wakefield,Wakefield,1
+1888,,WF2 9RL,Wakefield,Wakefield,1
+1889,Leeds,WF3 3AL,Wakefield,Wakefield,1
+1890,,WF6 1HT,NORMANTON,NORMANTON,1
+1891,Pontefract,WF8 2LY,Pontefract,Pontefract,1
+1892,,WF9 4AS,Pontefract,Pontefract,1
+1893,Wigan,WN1 1QX,Wigan,Wigan,1
+1894,Wigan,WN1 2LF,Wigan,Wigan,1
+1895,,WN2 1AF,Wigan,Wigan,1
+1896,Wigan,WN2 1PP,Wigan,Wigan,1
+1897,Ince,WN2 2EA,Wigan,Wigan,1
+1898,,WN4 9AE,Wigan,Wigan,1
+1899,,WN4 9AF,Wigan,Wigan,1
+1900,,WN4 9BJ,Wigan,Wigan,1
+1901,,WN5 9EA,Wigan,Wigan,1
+1902,Wigan,WN6 8EA,Wigan,Wigan,1
+1903,,WN7 1QZ,LEIGH,LEIGH,1
+1904,Lancashire,WN7 4AJ,LEIGH,LEIGH,1
+1905,Worcester,WR1 2HU,Worcester,Worcester,1
+1906,Worcestershire,WR1 2SG,Worcester,Worcester,1
+1907,Worcestershire,WR2 5AG,Worcester,Worcester,1
+1908,,WR4 9QH,Worcester,Worcester,1
+1909,,WR8 0HQ,Worcester,Worcester,1
+1910,Worcestershire,WR9 8ES,DROITWICH,DROITWICH,1
+1911,,WS1 1JG,Walsall,Walsall,1
+1912,Birmingham,WS1 1JQ,Walsall,Walsall,1
+1913,,WS1 2EU,Walsall,Walsall,1
+1914,,WS1 3QQ,Walsall,Walsall,1
+1915,,WS1 3RL,Walsall,Walsall,1
+1916,,WS1 3RW,Walsall,Walsall,1
+1917,,WS1 4LA,Walsall,Walsall,1
+1918,,WS10 0DX,Wednesbury,Wednesbury,1
+1919,,WS10 7HD,Wednesbury,Wednesbury,1
+1920,"Wednesbury,",WS10 8JP,Wednesbury,Wednesbury,1
+1921,Wednesbury,WS10 9SA,Wednesbury,Wednesbury,1
+1922,,WS11 5DZ,Cannock,Cannock,1
+1923,Staffordshire,WS13 6PR,Lichfield,Lichfield,1
+1924,Staffordshire,WS15 2DR,Rugeley,Rugeley,1
+1925,Staffordshire,WS15 2EJ,Rugeley,Rugeley,1
+1926,,WS15 2JH,Rugeley,Rugeley,1
+1927,,WS15 2PY,Rugeley,Rugeley,1
+1928,,WS2 8EA,Walsall,Walsall,1
+1929,,WS2 8RL,Walsall,Walsall,1
+1930,WALSALL,WS2 8RQ,Walsall,Walsall,1
+1931,West Midlands,WS2 9QN,Walsall,Walsall,1
+1932,,WS3 1HU,Walsall,Walsall,1
+1933,West Midlands,WS3 2EX,Walsall,Walsall,1
+1934,WALSALL,WS6 7DY,Walsall,Walsall,1
+1935,,WS7 1JR,Burntwood,Burntwood,1
+1936,Burntwood,WS7 3XF,Burntwood,Burntwood,1
+1937,,WS9 8QP,Walsall,Walsall,1
+1938,Wolverhampton,WV1 3BY,Willenhall,Willenhall,1
+1939,West Midlands,WV10 9UW,Wolverhampton,Wolverhampton,1
+1940,,WV12 4JN,Willenhall,Wrong Input,0
+1941,,WV12 5TL,Willenhall,Wrong Input,0
+1942,Willenhall,WV13 2DU,Willenhall,Willenhall,1
+1943,Parkfield,WV2 2DT,Wolverhampton,Wolverhampton,1
+1944,West Midlands,WV2 3AQ,Wolverhampton,Wolverhampton,1
+1945,Wolverhampton,WV2 3AQ,Wolverhampton,Wolverhampton,1
+1946,,WV2 4NX,Wolverhampton,Wolverhampton,1
+1947,West Midlands,WV3 0TT,Wolverhampton,Wolverhampton,1
+1948,Wolverhampton,WV6 0QW,Wolverhampton,Wolverhampton,1
+1949,York,YO10 3BP,York,York,1
+1950,North Yorkshire,YO10 4BB,York,York,1
+1951,Uk,YO12 7JR,SCARBOROUGH,SCARBOROUGH,1
+1952,Pickering,YO18 7LG,Pickering,PICKERING,1
+1953,,YO24 1AR,York,York,1
+1954,,YO24 1AZ,York,York,1
+1955,DRIFFIELD,YO25 6QE,Driffield,Driffield,1
+1956,York,YO30 6DG,York,York,1
+1957,York,YO30 7AS,York,York,1
+1958,,YO30 7BL,York,York,1
+1959,York,YO31 0QT,York,York,1
+1960,Yorkshire,YO31 7EA,York,York,1
+1961,UK,YO32 3SA,York,York,1
